@@ -1,0 +1,56 @@
+@import 'normalize';
+
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+  width: 100%;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+.sidebar {
+  border-right: 1px solid #ccc;
+  float: left;
+  height: 100%;
+  overflow: auto;
+  padding: 0 40px;
+  width: 200px;
+
+  h2 {
+    font-size: 12px;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+
+    li {
+      padding: 0 0 10px;
+
+      a {
+        color: #000;
+        font-size: 12px;
+
+        &:hover {
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
+
+.main {
+  height: 100%;
+  overflow: auto;
+
+  .map {
+    border: 0;
+    height: 1000px;
+    width: 1000px;
+  }
+}
