@@ -45,7 +45,7 @@ mapsapi()
   .then((maps) => {
     map = new google.maps.Map(mapElement, {
       mapTypeId: 'roadmap',
-      zoom: 17,
+      zoom: 15,
       styles: mapstyle,
       center: defaultLocation(),
       disableDefaultUI: true
