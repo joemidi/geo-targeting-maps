@@ -79,6 +79,7 @@
   "dependencies": {
     "google-maps-api": "^2.0.1",
     "load-json-file": "^2.0.0",
-    "normalize.css": "^4.0.0"
+    "normalize.css": "^4.0.0",
+    "slugify": "^1.1.0"
   }
 }

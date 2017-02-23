@@ -1,5 +1,6 @@
 const json = require('./locations.json');
 const mapstyle = require('./mapstyle.json');
+const slugify = require('slugify');
 const mapsapi = require('google-maps-api')('AIzaSyC1gVJNHFiTxClJkJ9NJgMAV0SzeemMoy0');
 
 const locationsList = document.querySelector('.locations-list');
@@ -10,7 +11,7 @@ const locations = json.map((item) => {
   const listItem = document.createElement('li');
   const anchor = document.createElement('a');
   const geoObj = {
-    slug: item.reporting_label,
+    slug: slugify(item.location_name).toLowerCase().replace(/\'/,''),
     locationName: item.location_name,
     lat: item.lat,
     lng: item.lng,
@@ -22,6 +23,10 @@ const locations = json.map((item) => {
   anchor.id = `${geoObj.slug}`;
   anchor.dataset.lat = geoObj.lat;
   anchor.dataset.lng = geoObj.lng;
+  anchor.addEventListener('click', (event) => {
+    event.preventDefault();
+    window.location.hash = `#${event.target.id}`;
+  });
   anchor.appendChild(text);
   listItem.appendChild(anchor);
   locationsList.appendChild(listItem);
