@@ -16,6 +16,7 @@
     "start": "gulp",
     "gulp": "gulp",
     "development": "gulp",
+    "geocode": "node ./scripts/geocode.js",
     "production": "gulp production",
     "deploy": "gulp deploy",
     "demo": "gulp production && gulp server",
@@ -77,9 +78,13 @@
     "webpack-hot-middleware": "2.10.0"
   },
   "dependencies": {
+    "csvtojson": "^1.1.4",
     "google-maps-api": "^2.0.1",
+    "jsonfile": "^2.4.0",
     "load-json-file": "^2.0.0",
     "normalize.css": "^4.0.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
     "slugify": "^1.1.0"
   }
 }

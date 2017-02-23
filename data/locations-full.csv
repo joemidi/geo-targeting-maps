@@ -1,0 +1,980 @@
+unique_id,reporting_label,criteria_id,location_name,canonical_name,parent_id,country_code,target_type,is_active
+1,ST_HELIER,1006454,St Helier,"St Helier,United Kingdom",2826,UK,City,TRUE
+2,SAINT_PETER_PORT,1006455,Saint Peter Port,"Saint Peter Port,United Kingdom",2826,UK,City,TRUE
+3,ABINGDON,1006457,Abingdon,"Abingdon,England,United Kingdom",20339,UK,City,TRUE
+4,ACCRINGTON,1006458,Accrington,"Accrington,England,United Kingdom",20339,UK,City,TRUE
+5,ACLE,1006459,Acle,"Acle,England,United Kingdom",20339,UK,City,TRUE
+6,ADDLESTONE,1006460,Addlestone,"Addlestone,England,United Kingdom",20339,UK,City,TRUE
+7,ALCESTER,1006461,Alcester,"Alcester,England,United Kingdom",20339,UK,City,TRUE
+8,ALCONBURY,1006462,Alconbury,"Alconbury,England,United Kingdom",20339,UK,City,TRUE
+9,ALDBOURNE,1006463,Aldbourne,"Aldbourne,England,United Kingdom",20339,UK,City,TRUE
+10,ALDERLEY_EDGE,1006464,Alderley Edge,"Alderley Edge,England,United Kingdom",20339,UK,City,TRUE
+11,ALDERMASTON,1006465,Aldermaston,"Aldermaston,England,United Kingdom",20339,UK,City,TRUE
+12,ALDERSHOT,1006466,Aldershot,"Aldershot,England,United Kingdom",20339,UK,City,TRUE
+13,ALFRETON,1006467,Alfreton,"Alfreton,England,United Kingdom",20339,UK,City,TRUE
+14,ALMONDSBURY,1006468,Almondsbury,"Almondsbury,England,United Kingdom",20339,UK,City,TRUE
+15,ALNWICK,1006469,Alnwick,"Alnwick,England,United Kingdom",20339,UK,City,TRUE
+16,ALRESFORD,1006470,Alresford,"Alresford,England,United Kingdom",20339,UK,City,TRUE
+17,ALREWAS,1006471,Alrewas,"Alrewas,England,United Kingdom",20339,UK,City,TRUE
+18,ALTON,1006472,Alton,"Alton,England,United Kingdom",20339,UK,City,TRUE
+19,ALTRINCHAM,1006473,Altrincham,"Altrincham,England,United Kingdom",20339,UK,City,TRUE
+20,AMERSHAM,1006474,Amersham,"Amersham,England,United Kingdom",20339,UK,City,TRUE
+21,AMPTHILL,1006475,Ampthill,"Ampthill,England,United Kingdom",20339,UK,City,TRUE
+22,ANDOVER,1006476,Andover,"Andover,England,United Kingdom",20339,UK,City,TRUE
+23,APPLEY_BRIDGE,1006477,Appley Bridge,"Appley Bridge,England,United Kingdom",20339,UK,City,TRUE
+24,ARUNDEL,1006478,Arundel,"Arundel,England,United Kingdom",20339,UK,City,TRUE
+25,ASCOT,1006479,Ascot,"Ascot,England,United Kingdom",20339,UK,City,TRUE
+26,ASH_VALE,1006480,Ash Vale,"Ash Vale,England,United Kingdom",20339,UK,City,TRUE
+27,ASHBOURNE,1006481,Ashbourne,"Ashbourne,England,United Kingdom",20339,UK,City,TRUE
+28,ASHBY-DE-LA-ZOUCH,1006482,Ashby-de-la-Zouch,"Ashby-de-la-Zouch,England,United Kingdom",20339,UK,City,TRUE
+29,ASHFORD,1006483,Ashford,"Ashford,England,United Kingdom",20339,UK,City,TRUE
+30,ASHINGTON,1006484,Ashington,"Ashington,England,United Kingdom",20339,UK,City,TRUE
+31,ASTON,1006485,Aston,"Aston,England,United Kingdom",20339,UK,City,TRUE
+32,ATHERTON,1006486,Atherton,"Atherton,England,United Kingdom",20339,UK,City,TRUE
+33,ATTLEBOROUGH,1006487,Attleborough,"Attleborough,England,United Kingdom",20339,UK,City,TRUE
+34,AVELEY,1006488,Aveley,"Aveley,England,United Kingdom",20339,UK,City,TRUE
+35,AVON,1006489,Avon,"Avon,England,United Kingdom",20339,UK,City,TRUE
+36,AYLESBURY,1006490,Aylesbury,"Aylesbury,England,United Kingdom",20339,UK,City,TRUE
+37,BAGSHOT,1006491,Bagshot,"Bagshot,England,United Kingdom",20339,UK,City,TRUE
+38,BAKEWELL,1006492,Bakewell,"Bakewell,England,United Kingdom",20339,UK,City,TRUE
+39,BALDOCK,1006493,Baldock,"Baldock,England,United Kingdom",20339,UK,City,TRUE
+40,BANBURY,1006494,Banbury,"Banbury,England,United Kingdom",20339,UK,City,TRUE
+41,BANSTEAD,1006495,Banstead,"Banstead,England,United Kingdom",20339,UK,City,TRUE
+42,BARNSLEY,1006496,Barnsley,"Barnsley,England,United Kingdom",20339,UK,City,TRUE
+43,BARNSTAPLE,1006497,Barnstaple,"Barnstaple,England,United Kingdom",20339,UK,City,TRUE
+44,BARROW-IN-FURNESS,1006498,Barrow-in-Furness,"Barrow-in-Furness,England,United Kingdom",20339,UK,City,TRUE
+45,BARTON-UPON-HUMBER,1006499,Barton-upon-Humber,"Barton-upon-Humber,England,United Kingdom",20339,UK,City,TRUE
+46,BASILDON,1006500,Basildon,"Basildon,England,United Kingdom",20339,UK,City,TRUE
+47,BASINGSTOKE,1006501,Basingstoke,"Basingstoke,England,United Kingdom",20339,UK,City,TRUE
+48,BATH,1006502,Bath,"Bath,England,United Kingdom",20339,UK,City,TRUE
+49,BATLEY,1006503,Batley,"Batley,England,United Kingdom",20339,UK,City,TRUE
+50,BEACONSFIELD,1006504,Beaconsfield,"Beaconsfield,England,United Kingdom",20339,UK,City,TRUE
+51,BEAMINSTER,1006505,Beaminster,"Beaminster,England,United Kingdom",20339,UK,City,TRUE
+52,BEESTON,1006507,Beeston,"Beeston,England,United Kingdom",20339,UK,City,TRUE
+53,BELLINGDON,1006508,Bellingdon,"Bellingdon,England,United Kingdom",20339,UK,City,TRUE
+54,NORTH_TURTON,1006509,North Turton,"North Turton,England,United Kingdom",20339,UK,City,TRUE
+55,BELPER,1006510,Belper,"Belper,England,United Kingdom",20339,UK,City,TRUE
+56,BERKELEY,1006511,Berkeley,"Berkeley,England,United Kingdom",20339,UK,City,TRUE
+57,BERKHAMSTED,1006512,Berkhamsted,"Berkhamsted,England,United Kingdom",20339,UK,City,TRUE
+58,BERWICK-UPON-TWEED,1006513,Berwick-upon-Tweed,"Berwick-upon-Tweed,England,United Kingdom",20339,UK,City,TRUE
+59,BEVERLEY,1006514,Beverley,"Beverley,England,United Kingdom",20339,UK,City,TRUE
+60,BICESTER,1006515,Bicester,"Bicester,England,United Kingdom",20339,UK,City,TRUE
+61,BIDEFORD,1006516,Bideford,"Bideford,England,United Kingdom",20339,UK,City,TRUE
+62,BIGGLESWADE,1006517,Biggleswade,"Biggleswade,England,United Kingdom",20339,UK,City,TRUE
+63,BILLERICAY,1006518,Billericay,"Billericay,England,United Kingdom",20339,UK,City,TRUE
+64,BILLINGSHURST,1006520,Billingshurst,"Billingshurst,England,United Kingdom",20339,UK,City,TRUE
+65,BINFIELD,1006521,Binfield,"Binfield,England,United Kingdom",20339,UK,City,TRUE
+66,BIRKENHEAD,1006523,Birkenhead,"Birkenhead,England,United Kingdom",20339,UK,City,TRUE
+67,BIRMINGHAM,1006524,Birmingham,"Birmingham,England,United Kingdom",20339,UK,City,TRUE
+68,BIRSTALL,1006525,Birstall,"Birstall,England,United Kingdom",20339,UK,City,TRUE
+69,BISHOP_AUCKLAND,1006526,Bishop Auckland,"Bishop Auckland,England,United Kingdom",20339,UK,City,TRUE
+70,BISHOPS_CLEEVE,1006527,Bishops Cleeve,"Bishops Cleeve,England,United Kingdom",20339,UK,City,TRUE
+71,BISHOP'S_STORTFORD,1006528,Bishop's Stortford,"Bishop's Stortford,England,United Kingdom",20339,UK,City,TRUE
+72,BLACKBURN,1006530,Blackburn,"Blackburn,England,United Kingdom",20339,UK,City,TRUE
+73,BLACKPOOL,1006532,Blackpool,"Blackpool,England,United Kingdom",20339,UK,City,TRUE
+74,BLANDFORD_FORUM,1006533,Blandford Forum,"Blandford Forum,England,United Kingdom",20339,UK,City,TRUE
+75,BLETCHLEY,1006534,Bletchley,"Bletchley,England,United Kingdom",20339,UK,City,TRUE
+76,BLOXHAM,1006535,Bloxham,"Bloxham,England,United Kingdom",20339,UK,City,TRUE
+77,BLUNHAM,1006536,Blunham,"Blunham,England,United Kingdom",20339,UK,City,TRUE
+78,BODMIN,1006537,Bodmin,"Bodmin,England,United Kingdom",20339,UK,City,TRUE
+79,BOGNOR_REGIS,1006538,Bognor Regis,"Bognor Regis,England,United Kingdom",20339,UK,City,TRUE
+80,BOLTON,1006539,Bolton,"Bolton,England,United Kingdom",20339,UK,City,TRUE
+81,BOOTLE,1006541,Bootle,"Bootle,England,United Kingdom",20339,UK,City,TRUE
+82,BOREHAMWOOD,1006542,Borehamwood,"Borehamwood,England,United Kingdom",20339,UK,City,TRUE
+83,BOSTON,1006543,Boston,"Boston,England,United Kingdom",20339,UK,City,TRUE
+84,BOTTISHAM,1006544,Bottisham,"Bottisham,England,United Kingdom",20339,UK,City,TRUE
+85,BOUGHTON,1006545,Boughton,"Boughton,England,United Kingdom",20339,UK,City,TRUE
+86,BOURNE,1006546,Bourne,"Bourne,England,United Kingdom",20339,UK,City,TRUE
+87,BOURNE_END,1006547,Bourne End,"Bourne End,England,United Kingdom",20339,UK,City,TRUE
+88,BOURNEMOUTH,1006548,Bournemouth,"Bournemouth,England,United Kingdom",20339,UK,City,TRUE
+89,BOURTON,1006549,Bourton,"Bourton,England,United Kingdom",20339,UK,City,TRUE
+90,BRACKLEY,1006551,Brackley,"Brackley,England,United Kingdom",20339,UK,City,TRUE
+91,BRACKNELL,1006552,Bracknell,"Bracknell,England,United Kingdom",20339,UK,City,TRUE
+92,BRADFORD,1006553,Bradford,"Bradford,England,United Kingdom",20339,UK,City,TRUE
+93,BRADFORD-ON-AVON,1006554,Bradford-on-Avon,"Bradford-on-Avon,England,United Kingdom",20339,UK,City,TRUE
+94,BRAINTREE,1006555,Braintree,"Braintree,England,United Kingdom",20339,UK,City,TRUE
+95,BRAMHAM_CUM_OGLETHORPE,1006556,Bramham cum Oglethorpe,"Bramham cum Oglethorpe,England,United Kingdom",20339,UK,City,TRUE
+96,BRAMPTON,1006557,Brampton,"Brampton,England,United Kingdom",20339,UK,City,TRUE
+97,BRASTED,1006558,Brasted,"Brasted,England,United Kingdom",20339,UK,City,TRUE
+98,BREDBURY,1006559,Bredbury,"Bredbury,England,United Kingdom",20339,UK,City,TRUE
+99,BRENTFORD,1006560,Brentford,"Brentford,England,United Kingdom",20339,UK,City,TRUE
+100,BRENTWOOD,1006561,Brentwood,"Brentwood,England,United Kingdom",20339,UK,City,TRUE
+101,BRIDGNORTH,1006562,Bridgnorth,"Bridgnorth,England,United Kingdom",20339,UK,City,TRUE
+102,BRIDGWATER,1006563,Bridgwater,"Bridgwater,England,United Kingdom",20339,UK,City,TRUE
+103,BRIERLEY_HILL,1006564,Brierley Hill,"Brierley Hill,England,United Kingdom",20339,UK,City,TRUE
+104,BRIGHTON,1006565,Brighton,"Brighton,England,United Kingdom",20339,UK,City,TRUE
+105,BRILL,1006566,Brill,"Brill,England,United Kingdom",20339,UK,City,TRUE
+106,BRISTOL,1006567,Bristol,"Bristol,England,United Kingdom",20339,UK,City,TRUE
+107,BROADBRIDGE_HEATH,1006568,Broadbridge Heath,"Broadbridge Heath,England,United Kingdom",20339,UK,City,TRUE
+108,BROADSTAIRS,1006569,Broadstairs,"Broadstairs,England,United Kingdom",20339,UK,City,TRUE
+109,BROADWAY,1006570,Broadway,"Broadway,England,United Kingdom",20339,UK,City,TRUE
+110,BROCKENHURST,1006571,Brockenhurst,"Brockenhurst,England,United Kingdom",20339,UK,City,TRUE
+111,BROMSGROVE,1006573,Bromsgrove,"Bromsgrove,England,United Kingdom",20339,UK,City,TRUE
+112,BROOKMANS_PARK,1006574,Brookmans Park,"Brookmans Park,England,United Kingdom",20339,UK,City,TRUE
+113,BROSELEY,1006575,Broseley,"Broseley,England,United Kingdom",20339,UK,City,TRUE
+114,BROUGH,1006576,Brough,"Brough,England,United Kingdom",20339,UK,City,TRUE
+115,BROXBOURNE,1006577,Broxbourne,"Broxbourne,England,United Kingdom",20339,UK,City,TRUE
+116,BRUTON,1006578,Bruton,"Bruton,England,United Kingdom",20339,UK,City,TRUE
+117,BUCKINGHAM,1006579,Buckingham,"Buckingham,England,United Kingdom",20339,UK,City,TRUE
+118,BUDE,1006580,Bude,"Bude,England,United Kingdom",20339,UK,City,TRUE
+119,BUNTINGFORD,1006581,Buntingford,"Buntingford,England,United Kingdom",20339,UK,City,TRUE
+120,BURFORD,1006582,Burford,"Burford,England,United Kingdom",20339,UK,City,TRUE
+121,BURGESS_HILL,1006583,Burgess Hill,"Burgess Hill,England,United Kingdom",20339,UK,City,TRUE
+122,BURNHAM,1006584,Burnham,"Burnham,England,United Kingdom",20339,UK,City,TRUE
+123,BURNLEY,1006585,Burnley,"Burnley,England,United Kingdom",20339,UK,City,TRUE
+124,BURTON_UPON_TRENT,1006586,Burton upon Trent,"Burton upon Trent,England,United Kingdom",20339,UK,City,TRUE
+125,BURTONWOOD,1006587,Burtonwood,"Burtonwood,England,United Kingdom",20339,UK,City,TRUE
+126,BURY,1006588,Bury,"Bury,England,United Kingdom",20339,UK,City,TRUE
+127,BURY_SAINT_EDMUNDS,1006589,Bury Saint Edmunds,"Bury Saint Edmunds,England,United Kingdom",20339,UK,City,TRUE
+128,BUSHEY,1006590,Bushey,"Bushey,England,United Kingdom",20339,UK,City,TRUE
+129,BUXTON,1006591,Buxton,"Buxton,England,United Kingdom",20339,UK,City,TRUE
+130,BYFLEET,1006592,Byfleet,"Byfleet,England,United Kingdom",20339,UK,City,TRUE
+131,CADDINGTON,1006593,Caddington,"Caddington,England,United Kingdom",20339,UK,City,TRUE
+132,CALLINGTON,1006594,Callington,"Callington,England,United Kingdom",20339,UK,City,TRUE
+133,CALNE,1006595,Calne,"Calne,England,United Kingdom",20339,UK,City,TRUE
+134,CAMBERLEY,1006596,Camberley,"Camberley,England,United Kingdom",20339,UK,City,TRUE
+135,CAMBORNE,1006597,Camborne,"Camborne,England,United Kingdom",20339,UK,City,TRUE
+136,CAMBRIDGE,1006598,Cambridge,"Cambridge,England,United Kingdom",20339,UK,City,TRUE
+137,CAMELFORD,1006599,Camelford,"Camelford,England,United Kingdom",20339,UK,City,TRUE
+138,CAMERTON,1006600,Camerton,"Camerton,England,United Kingdom",20339,UK,City,TRUE
+139,CANNOCK,1006601,Cannock,"Cannock,England,United Kingdom",20339,UK,City,TRUE
+140,CANTERBURY,1006602,Canterbury,"Canterbury,England,United Kingdom",20339,UK,City,TRUE
+141,CANVEY_ISLAND,1006603,Canvey Island,"Canvey Island,England,United Kingdom",20339,UK,City,TRUE
+142,CAPENHURST,1006604,Capenhurst,"Capenhurst,England,United Kingdom",20339,UK,City,TRUE
+143,CARLISLE,1006605,Carlisle,"Carlisle,England,United Kingdom",20339,UK,City,TRUE
+144,CASTLE_DONINGTON,1006606,Castle Donington,"Castle Donington,England,United Kingdom",20339,UK,City,TRUE
+145,CASTLEFORD,1006607,Castleford,"Castleford,England,United Kingdom",20339,UK,City,TRUE
+146,CASTLETON,1006608,Castleton,"Castleton,England,United Kingdom",20339,UK,City,TRUE
+147,CATERHAM,1006609,Caterham,"Caterham,England,United Kingdom",20339,UK,City,TRUE
+148,CAWTHORNE,1006610,Cawthorne,"Cawthorne,England,United Kingdom",20339,UK,City,TRUE
+149,CHALFONT_SAINT_GILES,1006611,Chalfont Saint Giles,"Chalfont Saint Giles,England,United Kingdom",20339,UK,City,TRUE
+150,CHALGROVE,1006612,Chalgrove,"Chalgrove,England,United Kingdom",20339,UK,City,TRUE
+151,CHANDLER'S_FORD,1006613,Chandler's Ford,"Chandler's Ford,England,United Kingdom",20339,UK,City,TRUE
+152,CHARD,1006615,Chard,"Chard,England,United Kingdom",20339,UK,City,TRUE
+153,CHARING,1006616,Charing,"Charing,England,United Kingdom",20339,UK,City,TRUE
+154,CHARLWOOD,1006617,Charlwood,"Charlwood,England,United Kingdom",20339,UK,City,TRUE
+155,CHATHAM,1006618,Chatham,"Chatham,England,United Kingdom",20339,UK,City,TRUE
+156,CHATTERIS,1006619,Chatteris,"Chatteris,England,United Kingdom",20339,UK,City,TRUE
+157,CHEADLE_HULME,1006620,Cheadle Hulme,"Cheadle Hulme,England,United Kingdom",20339,UK,City,TRUE
+158,CHELMSFORD,1006621,Chelmsford,"Chelmsford,England,United Kingdom",20339,UK,City,TRUE
+159,CHELTENHAM,1006622,Cheltenham,"Cheltenham,England,United Kingdom",20339,UK,City,TRUE
+160,CHERTSEY,1006623,Chertsey,"Chertsey,England,United Kingdom",20339,UK,City,TRUE
+161,CHESHAM,1006624,Chesham,"Chesham,England,United Kingdom",20339,UK,City,TRUE
+162,CHESHUNT,1006625,Cheshunt,"Cheshunt,England,United Kingdom",20339,UK,City,TRUE
+163,CHESTER,1006626,Chester,"Chester,England,United Kingdom",20339,UK,City,TRUE
+164,CHESTERFIELD,1006627,Chesterfield,"Chesterfield,England,United Kingdom",20339,UK,City,TRUE
+165,CHICHESTER,1006628,Chichester,"Chichester,England,United Kingdom",20339,UK,City,TRUE
+166,CHINEHAM,1006629,Chineham,"Chineham,England,United Kingdom",20339,UK,City,TRUE
+167,CHINNOR,1006630,Chinnor,"Chinnor,England,United Kingdom",20339,UK,City,TRUE
+168,CHIPPING_NORTON,1006631,Chipping Norton,"Chipping Norton,England,United Kingdom",20339,UK,City,TRUE
+169,CHIPPING_SODBURY,1006632,Chipping Sodbury,"Chipping Sodbury,England,United Kingdom",20339,UK,City,TRUE
+170,CHORLEY,1006633,Chorley,"Chorley,England,United Kingdom",20339,UK,City,TRUE
+171,CHRISTCHURCH,1006634,Christchurch,"Christchurch,England,United Kingdom",20339,UK,City,TRUE
+172,CHURCH_STRETTON,1006635,Church Stretton,"Church Stretton,England,United Kingdom",20339,UK,City,TRUE
+173,CIRENCESTER,1006636,Cirencester,"Cirencester,England,United Kingdom",20339,UK,City,TRUE
+174,CLACTON-ON-SEA,1006637,Clacton-on-Sea,"Clacton-on-Sea,England,United Kingdom",20339,UK,City,TRUE
+175,CLAPHAM,1006638,Clapham,"Clapham,England,United Kingdom",20339,UK,City,TRUE
+176,CLECKHEATON,1006639,Cleckheaton,"Cleckheaton,England,United Kingdom",20339,UK,City,TRUE
+177,CLEETHORPES,1006640,Cleethorpes,"Cleethorpes,England,United Kingdom",20339,UK,City,TRUE
+178,CLEVEDON,1006641,Clevedon,"Clevedon,England,United Kingdom",20339,UK,City,TRUE
+179,CLIFTON_AND_COMPTON,1006642,Clifton and Compton,"Clifton and Compton,England,United Kingdom",20339,UK,City,TRUE
+180,COALVILLE,1006643,Coalville,"Coalville,England,United Kingdom",20339,UK,City,TRUE
+181,COLCHESTER,1006644,Colchester,"Colchester,England,United Kingdom",20339,UK,City,TRUE
+182,COLEFORD,1006645,Coleford,"Coleford,England,United Kingdom",20339,UK,City,TRUE
+183,COMPTON_AND_SHAWFORD,1006647,Compton and Shawford,"Compton and Shawford,England,United Kingdom",20339,UK,City,TRUE
+184,CONGLETON,1006648,Congleton,"Congleton,England,United Kingdom",20339,UK,City,TRUE
+185,CONSETT,1006649,Consett,"Consett,England,United Kingdom",20339,UK,City,TRUE
+186,COPPINGFORD,1006651,Coppingford,"Coppingford,England,United Kingdom",20339,UK,City,TRUE
+187,COPPULL,1006652,Coppull,"Coppull,England,United Kingdom",20339,UK,City,TRUE
+188,CORBY,1006653,Corby,"Corby,England,United Kingdom",20339,UK,City,TRUE
+189,COTTENHAM,1006655,Cottenham,"Cottenham,Cottenham,England,United Kingdom",20339,UK,City,TRUE
+190,COVENTRY,1006656,Coventry,"Coventry,England,United Kingdom",20339,UK,City,TRUE
+191,COWES,1006657,Cowes,"Cowes,England,United Kingdom",20339,UK,City,TRUE
+192,COWLEY,1006658,Cowley,"Cowley,England,United Kingdom",20339,UK,City,TRUE
+193,CRAMLINGTON,1006659,Cramlington,"Cramlington,England,United Kingdom",20339,UK,City,TRUE
+194,CRANFIELD,1006660,Cranfield,"Cranfield,England,United Kingdom",20339,UK,City,TRUE
+195,CRAWLEY,1006661,Crawley,"Crawley,England,United Kingdom",20339,UK,City,TRUE
+196,CREDITON,1006662,Crediton,"Crediton,England,United Kingdom",20339,UK,City,TRUE
+197,CREWE,1006663,Crewe,"Crewe,England,United Kingdom",20339,UK,City,TRUE
+198,CREWKERNE,1006664,Crewkerne,"Crewkerne,England,United Kingdom",20339,UK,City,TRUE
+199,CROMER,1006665,Cromer,"Cromer,England,United Kingdom",20339,UK,City,TRUE
+200,CROWBOROUGH,1006666,Crowborough,"Crowborough,England,United Kingdom",20339,UK,City,TRUE
+201,CROWTHORNE,1006667,Crowthorne,"Crowthorne,England,United Kingdom",20339,UK,City,TRUE
+202,CROYDON,1006668,Croydon,"Croydon,England,United Kingdom",20339,UK,City,TRUE
+203,DARLINGTON,1006669,Darlington,"Darlington,England,United Kingdom",20339,UK,City,TRUE
+204,DARTFORD,1006670,Dartford,"Dartford,England,United Kingdom",20339,UK,City,TRUE
+205,DARWEN,1006671,Darwen,"Darwen,England,United Kingdom",20339,UK,City,TRUE
+206,DAVENTRY,1006672,Daventry,"Daventry,England,United Kingdom",20339,UK,City,TRUE
+207,DENMEAD,1006673,Denmead,"Denmead,England,United Kingdom",20339,UK,City,TRUE
+208,DERBY,1006674,Derby,"Derby,England,United Kingdom",20339,UK,City,TRUE
+209,DEVIZES,1006675,Devizes,"Devizes,England,United Kingdom",20339,UK,City,TRUE
+210,DIDCOT,1006677,Didcot,"Didcot,England,United Kingdom",20339,UK,City,TRUE
+211,DODLESTON,1006678,Dodleston,"Dodleston,England,United Kingdom",20339,UK,City,TRUE
+212,DONCASTER,1006679,Doncaster,"Doncaster,England,United Kingdom",20339,UK,City,TRUE
+213,DORCHESTER,1006680,Dorchester,"Dorchester,England,United Kingdom",20339,UK,City,TRUE
+214,DORKING,1006681,Dorking,"Dorking,England,United Kingdom",20339,UK,City,TRUE
+215,DOVER,1006682,Dover,"Dover,England,United Kingdom",20339,UK,City,TRUE
+216,DOWNHAM,1006683,Downham,"Downham,England,United Kingdom",20339,UK,City,TRUE
+217,DRAYTON,1006684,Drayton,"Drayton,England,United Kingdom",20339,UK,City,TRUE
+218,DROITWICH_SPA,1006685,Droitwich Spa,"Droitwich Spa,England,United Kingdom",20339,UK,City,TRUE
+219,DUDLEY,1006686,Dudley,"Dudley,England,United Kingdom",20339,UK,City,TRUE
+220,DUNSTABLE,1006687,Dunstable,"Dunstable,England,United Kingdom",20339,UK,City,TRUE
+221,DURHAM,1006688,Durham,"Durham,Durham,England,United Kingdom",20339,UK,City,TRUE
+222,EAST_GRINSTEAD,1006689,East Grinstead,"East Grinstead,England,United Kingdom",20339,UK,City,TRUE
+223,EAST_MARKHAM,1006690,East Markham,"East Markham,England,United Kingdom",20339,UK,City,TRUE
+224,RETFORD,1006691,Retford,"Retford,England,United Kingdom",20339,UK,City,TRUE
+225,EASTBOURNE,1006692,Eastbourne,"Eastbourne,England,United Kingdom",20339,UK,City,TRUE
+226,EASTLEIGH,1006693,Eastleigh,"Eastleigh,England,United Kingdom",20339,UK,City,TRUE
+227,EDWALTON,1006695,Edwalton,"Edwalton,England,United Kingdom",20339,UK,City,TRUE
+228,EGHAM,1006696,Egham,"Egham,England,United Kingdom",20339,UK,City,TRUE
+229,ELLESMERE_PORT,1006697,Ellesmere Port,"Ellesmere Port,England,United Kingdom",20339,UK,City,TRUE
+230,ELSTREE,1006698,Elstree,"Elstree,England,United Kingdom",20339,UK,City,TRUE
+231,ELY,1006699,Ely,"Ely,England,United Kingdom",20339,UK,City,TRUE
+232,ENDERBY,1006700,Enderby,"Enderby,England,United Kingdom",20339,UK,City,TRUE
+233,EPPING,1006701,Epping,"Epping,England,United Kingdom",20339,UK,City,TRUE
+234,EPSOM,1006702,Epsom,"Epsom,England,United Kingdom",20339,UK,City,TRUE
+235,ESHER,1006703,Esher,"Esher,England,United Kingdom",20339,UK,City,TRUE
+236,ETCHINGHAM,1006704,Etchingham,"Etchingham,England,United Kingdom",20339,UK,City,TRUE
+237,EVESHAM,1006705,Evesham,"Evesham,England,United Kingdom",20339,UK,City,TRUE
+238,EXETER,1006707,Exeter,"Exeter,England,United Kingdom",20339,UK,City,TRUE
+239,EXMINSTER,1006708,Exminster,"Exminster,England,United Kingdom",20339,UK,City,TRUE
+240,EXMOUTH,1006709,Exmouth,"Exmouth,England,United Kingdom",20339,UK,City,TRUE
+241,EYAM,1006710,Eyam,"Eyam,England,United Kingdom",20339,UK,City,TRUE
+242,EYNSHAM,1006711,Eynsham,"Eynsham,England,United Kingdom",20339,UK,City,TRUE
+243,FAIRFORD,1006712,Fairford,"Fairford,England,United Kingdom",20339,UK,City,TRUE
+244,FALMER,1006713,Falmer,"Falmer,England,United Kingdom",20339,UK,City,TRUE
+245,FALMOUTH,1006714,Falmouth,"Falmouth,England,United Kingdom",20339,UK,City,TRUE
+246,FAREHAM,1006715,Fareham,"Fareham,England,United Kingdom",20339,UK,City,TRUE
+247,FARNBOROUGH,1006716,Farnborough,"Farnborough,England,United Kingdom",20339,UK,City,TRUE
+248,FARNHAM,1006717,Farnham,"Farnham,England,United Kingdom",20339,UK,City,TRUE
+249,FARRINGDON,1006718,Farringdon,"Farringdon,England,United Kingdom",20339,UK,City,TRUE
+250,FELIXSTOWE,1006719,Felixstowe,"Felixstowe,England,United Kingdom",20339,UK,City,TRUE
+251,FENTON,1006721,Fenton,"Fenton,England,United Kingdom",20339,UK,City,TRUE
+252,FERNDOWN,1006722,Ferndown,"Ferndown,England,United Kingdom",20339,UK,City,TRUE
+253,FERRYHILL,1006723,Ferryhill,"Ferryhill,England,United Kingdom",20339,UK,City,TRUE
+254,FILLEIGH,1006724,Filleigh,"Filleigh,England,United Kingdom",20339,UK,City,TRUE
+255,FINDON,1006725,Findon,"Findon,England,United Kingdom",20339,UK,City,TRUE
+256,FLEET,1006726,Fleet,"Fleet,England,United Kingdom",20339,UK,City,TRUE
+257,FLEETWOOD,1006727,Fleetwood,"Fleetwood,England,United Kingdom",20339,UK,City,TRUE
+258,FLITWICK,1006728,Flitwick,"Flitwick,England,United Kingdom",20339,UK,City,TRUE
+259,FOLKESTONE,1006729,Folkestone,"Folkestone,England,United Kingdom",20339,UK,City,TRUE
+260,FORDINGBRIDGE,1006730,Fordingbridge,"Fordingbridge,England,United Kingdom",20339,UK,City,TRUE
+261,FOREST_ROW,1006731,Forest Row,"Forest Row,England,United Kingdom",20339,UK,City,TRUE
+262,FOULRIDGE,1006732,Foulridge,"Foulridge,England,United Kingdom",20339,UK,City,TRUE
+263,FRIMLEY,1006733,Frimley,"Frimley,England,United Kingdom",20339,UK,City,TRUE
+264,FROME,1006734,Frome,"Frome,England,United Kingdom",20339,UK,City,TRUE
+265,SCAMPTON,1006735,Scampton,"Scampton,England,United Kingdom",20339,UK,City,TRUE
+266,GATESHEAD,1006736,Gateshead,"Gateshead,England,United Kingdom",20339,UK,City,TRUE
+267,GEDDINGTON,1006737,Geddington,"Geddington,England,United Kingdom",20339,UK,City,TRUE
+268,GERRARDS_CROSS,1006738,Gerrards Cross,"Gerrards Cross,England,United Kingdom",20339,UK,City,TRUE
+269,GLASTONBURY,1006739,Glastonbury,"Glastonbury,England,United Kingdom",20339,UK,City,TRUE
+270,GLOSSOP,1006740,Glossop,"Glossop,England,United Kingdom",20339,UK,City,TRUE
+271,GLOUCESTER,1006741,Gloucester,"Gloucester,England,United Kingdom",20339,UK,City,TRUE
+272,GODALMING,1006742,Godalming,"Godalming,England,United Kingdom",20339,UK,City,TRUE
+273,GOOLE,1006743,Goole,"Goole,England,United Kingdom",20339,UK,City,TRUE
+274,GORLESTON-ON-SEA,1006744,Gorleston-on-Sea,"Gorleston-on-Sea,England,United Kingdom",20339,UK,City,TRUE
+275,GRANTHAM,1006745,Grantham,"Grantham,England,United Kingdom",20339,UK,City,TRUE
+276,GRAVESEND,1006746,Gravesend,"Gravesend,England,United Kingdom",20339,UK,City,TRUE
+277,GRAYS,1006747,Grays,"Grays,England,United Kingdom",20339,UK,City,TRUE
+278,GREAT_BADDOW,1006748,Great Baddow,"Great Baddow,England,United Kingdom",20339,UK,City,TRUE
+279,GREAT_MALVERN,1006749,Great Malvern,"Great Malvern,England,United Kingdom",20339,UK,City,TRUE
+280,GREAT_MISSENDEN,1006750,Great Missenden,"Great Missenden,England,United Kingdom",20339,UK,City,TRUE
+281,GREAT_YARMOUTH,1006751,Great Yarmouth,"Great Yarmouth,England,United Kingdom",20339,UK,City,TRUE
+282,GRIMSBY,1006752,Grimsby,"Grimsby,England,United Kingdom",20339,UK,City,TRUE
+283,GUILDFORD,1006753,Guildford,"Guildford,England,United Kingdom",20339,UK,City,TRUE
+284,HADDENHAM,1006754,Haddenham,"Haddenham,England,United Kingdom",20339,UK,City,TRUE
+285,HAILSHAM,1006755,Hailsham,"Hailsham,England,United Kingdom",20339,UK,City,TRUE
+286,HALESOWEN,1006756,Halesowen,"Halesowen,England,United Kingdom",20339,UK,City,TRUE
+287,HALIFAX,1006757,Halifax,"Halifax,England,United Kingdom",20339,UK,City,TRUE
+288,HALTON,1006758,Halton,"Halton,England,United Kingdom",20339,UK,City,TRUE
+289,HAMBLE-LE-RICE,1006759,Hamble-le-Rice,"Hamble-le-Rice,England,United Kingdom",20339,UK,City,TRUE
+290,HANDFORTH,1006761,Handforth,"Handforth,England,United Kingdom",20339,UK,City,TRUE
+291,HANSLOPE,1006762,Hanslope,"Hanslope,England,United Kingdom",20339,UK,City,TRUE
+292,HARLESTON,1006763,Harleston,"Harleston,England,United Kingdom",20339,UK,City,TRUE
+293,HARLOW,1006764,Harlow,"Harlow,England,United Kingdom",20339,UK,City,TRUE
+294,HARPENDEN,1006765,Harpenden,"Harpenden,England,United Kingdom",20339,UK,City,TRUE
+295,HARROGATE,1006766,Harrogate,"Harrogate,England,United Kingdom",20339,UK,City,TRUE
+296,HARTLEPOOL,1006767,Hartlepool,"Hartlepool,England,United Kingdom",20339,UK,City,TRUE
+297,HARWELL,1006768,Harwell,"Harwell,England,United Kingdom",20339,UK,City,TRUE
+298,HASLINGDEN,1006769,Haslingden,"Haslingden,England,United Kingdom",20339,UK,City,TRUE
+299,HASTINGS,1006770,Hastings,"Hastings,England,United Kingdom",20339,UK,City,TRUE
+300,HASTINGWOOD,1006771,Hastingwood,"Hastingwood,England,United Kingdom",20339,UK,City,TRUE
+301,HATFIELD,1006772,Hatfield,"Hatfield,England,United Kingdom",20339,UK,City,TRUE
+302,HAVANT,1006773,Havant,"Havant,England,United Kingdom",20339,UK,City,TRUE
+303,HAVERHILL,1006774,Haverhill,"Haverhill,England,United Kingdom",20339,UK,City,TRUE
+304,HAWES,1006775,Hawes,"Hawes,England,United Kingdom",20339,UK,City,TRUE
+305,HAYDOCK,1006776,Haydock,"Haydock,England,United Kingdom",20339,UK,City,TRUE
+306,HAYLE,1006777,Hayle,"Hayle,England,United Kingdom",20339,UK,City,TRUE
+307,HAYLING_ISLAND,1006778,Hayling Island,"Hayling Island,England,United Kingdom",20339,UK,City,TRUE
+308,HAYWARDS_HEATH,1006779,Haywards Heath,"Haywards Heath,England,United Kingdom",20339,UK,City,TRUE
+309,HEADLEY_DOWN,1006780,Headley Down,"Headley Down,England,United Kingdom",20339,UK,City,TRUE
+310,HEATHFIELD_AND_WALDRON,1006781,Heathfield and Waldron,"Heathfield and Waldron,England,United Kingdom",20339,UK,City,TRUE
+311,HECKFIELD,1006782,Heckfield,"Heckfield,England,United Kingdom",20339,UK,City,TRUE
+312,HEDGE_END,1006783,Hedge End,"Hedge End,England,United Kingdom",20339,UK,City,TRUE
+313,HELSBY,1006784,Helsby,"Helsby,England,United Kingdom",20339,UK,City,TRUE
+314,HELSTON,1006785,Helston,"Helston,England,United Kingdom",20339,UK,City,TRUE
+315,HEMEL_HEMPSTEAD,1006786,Hemel Hempstead,"Hemel Hempstead,England,United Kingdom",20339,UK,City,TRUE
+316,HENFIELD,1006787,Henfield,"Henfield,England,United Kingdom",20339,UK,City,TRUE
+317,HENLEY-IN-ARDEN,1006788,Henley-in-Arden,"Henley-in-Arden,England,United Kingdom",20339,UK,City,TRUE
+318,HENLEY-ON-THAMES,1006789,Henley-on-Thames,"Henley-on-Thames,England,United Kingdom",20339,UK,City,TRUE
+319,HEREFORD,1006790,Hereford,"Hereford,England,United Kingdom",20339,UK,City,TRUE
+320,HERNE_BAY,1006791,Herne Bay,"Herne Bay,England,United Kingdom",20339,UK,City,TRUE
+321,HERSHAM,1006792,Hersham,"Hersham,England,United Kingdom",20339,UK,City,TRUE
+322,HERTFORD,1006793,Hertford,"Hertford,England,United Kingdom",20339,UK,City,TRUE
+323,HEXHAM,1006794,Hexham,"Hexham,England,United Kingdom",20339,UK,City,TRUE
+324,HEYBRIDGE,1006795,Heybridge,"Heybridge,England,United Kingdom",20339,UK,City,TRUE
+325,HEYWOOD,1006796,Heywood,"Heywood,England,United Kingdom",20339,UK,City,TRUE
+326,BENTHAM,1006797,Bentham,"Bentham,England,United Kingdom",20339,UK,City,TRUE
+327,HIGH_WYCOMBE,1006798,High Wycombe,"High Wycombe,England,United Kingdom",20339,UK,City,TRUE
+328,HILDENBOROUGH,1006799,Hildenborough,"Hildenborough,England,United Kingdom",20339,UK,City,TRUE
+329,HINCKLEY,1006800,Hinckley,"Hinckley,England,United Kingdom",20339,UK,City,TRUE
+330,HINDHEAD,1006801,Hindhead,"Hindhead,England,United Kingdom",20339,UK,City,TRUE
+331,HISTON,1006802,Histon,"Histon,England,United Kingdom",20339,UK,City,TRUE
+332,HITCHIN,1006803,Hitchin,"Hitchin,England,United Kingdom",20339,UK,City,TRUE
+333,HODDESDON,1006804,Hoddesdon,"Hoddesdon,England,United Kingdom",20339,UK,City,TRUE
+334,HOLMES_CHAPEL,1006805,Holmes Chapel,"Holmes Chapel,England,United Kingdom",20339,UK,City,TRUE
+335,HOLMFIRTH,1006806,Holmfirth,"Holmfirth,England,United Kingdom",20339,UK,City,TRUE
+336,HOOK,1006807,Hook,"Hook,England,United Kingdom",20339,UK,City,TRUE
+337,HORLEY,1006808,Horley,"Horley,England,United Kingdom",20339,UK,City,TRUE
+338,HORNCASTLE,1006809,Horncastle,"Horncastle,England,United Kingdom",20339,UK,City,TRUE
+339,HORSHAM,1006810,Horsham,"Horsham,England,United Kingdom",20339,UK,City,TRUE
+340,HORTON_KIRBY_AND_SOUTH_DARENTH,1006811,Horton Kirby and South Darenth,"Horton Kirby and South Darenth,England,United Kingdom",20339,UK,City,TRUE
+341,HOVE,1006812,Hove,"Hove,England,United Kingdom",20339,UK,City,TRUE
+342,HOWDEN,1006813,Howden,"Howden,England,United Kingdom",20339,UK,City,TRUE
+343,HUCKNALL,1006814,Hucknall,"Hucknall,England,United Kingdom",20339,UK,City,TRUE
+344,HUDDERSFIELD,1006815,Huddersfield,"Huddersfield,England,United Kingdom",20339,UK,City,TRUE
+345,HULL,1006816,Hull,"Hull,England,United Kingdom",20339,UK,City,TRUE
+346,HUNGERFORD,1006817,Hungerford,"Hungerford,England,United Kingdom",20339,UK,City,TRUE
+347,HUNTINGDON,1006818,Huntingdon,"Huntingdon,England,United Kingdom",20339,UK,City,TRUE
+348,HUYTON,1006819,Huyton,"Huyton,England,United Kingdom",20339,UK,City,TRUE
+349,IBSTOCK,1006820,Ibstock,"Ibstock,England,United Kingdom",20339,UK,City,TRUE
+350,ILKESTON,1006821,Ilkeston,"Ilkeston,England,United Kingdom",20339,UK,City,TRUE
+351,ILKLEY,1006822,Ilkley,"Ilkley,England,United Kingdom",20339,UK,City,TRUE
+352,IMMINGHAM,1006823,Immingham,"Immingham,England,United Kingdom",20339,UK,City,TRUE
+353,INGHAM,1006824,Ingham,"Ingham,England,United Kingdom",20339,UK,City,TRUE
+354,INGRAM,1006825,Ingram,"Ingram,England,United Kingdom",20339,UK,City,TRUE
+355,IPSWICH,1006826,Ipswich,"Ipswich,England,United Kingdom",20339,UK,City,TRUE
+356,IRLAM,1006827,Irlam,"Irlam,England,United Kingdom",20339,UK,City,TRUE
+357,IVER,1006828,Iver,"Iver,England,United Kingdom",20339,UK,City,TRUE
+358,KEARSLEY,1006829,Kearsley,"Kearsley,England,United Kingdom",20339,UK,City,TRUE
+359,KEELE,1006830,Keele,"Keele,England,United Kingdom",20339,UK,City,TRUE
+360,KEGWORTH,1006831,Kegworth,"Kegworth,England,United Kingdom",20339,UK,City,TRUE
+361,KEIGHLEY,1006832,Keighley,"Keighley,England,United Kingdom",20339,UK,City,TRUE
+362,KEMPSTON,1006833,Kempston,"Kempston,England,United Kingdom",20339,UK,City,TRUE
+363,KENDAL,1006834,Kendal,"Kendal,England,United Kingdom",20339,UK,City,TRUE
+364,KENILWORTH,1006835,Kenilworth,"Kenilworth,England,United Kingdom",20339,UK,City,TRUE
+365,KETTERING,1006837,Kettering,"Kettering,England,United Kingdom",20339,UK,City,TRUE
+366,KIDDERMINSTER,1006838,Kidderminster,"Kidderminster,England,United Kingdom",20339,UK,City,TRUE
+367,KIDLINGTON,1006839,Kidlington,"Kidlington,England,United Kingdom",20339,UK,City,TRUE
+368,KIDSGROVE,1006840,Kidsgrove,"Kidsgrove,England,United Kingdom",20339,UK,City,TRUE
+369,KINGS_LANGLEY,1006841,Kings Langley,"Kings Langley,England,United Kingdom",20339,UK,City,TRUE
+370,KING'S_LYNN,1006842,King's Lynn,"King's Lynn,England,United Kingdom",20339,UK,City,TRUE
+371,KINGSBRIDGE,1006843,Kingsbridge,"Kingsbridge,England,United Kingdom",20339,UK,City,TRUE
+372,KINGSTON,1006844,Kingston,"Kingston,England,United Kingdom",20339,UK,City,TRUE
+373,KINGSTON_BAGPUIZE_WITH_SOUTHMOOR,1006845,Kingston Bagpuize with Southmoor,"Kingston Bagpuize with Southmoor,England,United Kingdom",20339,UK,City,TRUE
+374,KINGSWINFORD,1006846,Kingswinford,"Kingswinford,England,United Kingdom",20339,UK,City,TRUE
+375,KIRKBY,1006847,Kirkby,"Kirkby,England,United Kingdom",20339,UK,City,TRUE
+376,KIRKBY_IN_ASHFIELD,1006848,Kirkby in Ashfield,"Kirkby in Ashfield,England,United Kingdom",20339,UK,City,TRUE
+377,KIRMINGTON,1006850,Kirmington,"Kirmington,England,United Kingdom",20339,UK,City,TRUE
+378,KNOWSLEY,1006851,Knowsley,"Knowsley,England,United Kingdom",20339,UK,City,TRUE
+379,KNUTSFORD,1006852,Knutsford,"Knutsford,England,United Kingdom",20339,UK,City,TRUE
+380,LAKENHEATH,1006853,Lakenheath,"Lakenheath,England,United Kingdom",20339,UK,City,TRUE
+381,LANCASTER,1006854,Lancaster,"Lancaster,England,United Kingdom",20339,UK,City,TRUE
+382,LANCING,1006855,Lancing,"Lancing,England,United Kingdom",20339,UK,City,TRUE
+383,LANGFORD,1006856,Langford,"Langford,England,United Kingdom",20339,UK,City,TRUE
+384,LAUNCESTON,1006858,Launceston,"Launceston,England,United Kingdom",20339,UK,City,TRUE
+385,LAWHITTON_RURAL,1006859,Lawhitton Rural,"Lawhitton Rural,England,United Kingdom",20339,UK,City,TRUE
+386,LEAFIELD,1006860,Leafield,"Leafield,England,United Kingdom",20339,UK,City,TRUE
+387,LEATHERHEAD,1006861,Leatherhead,"Leatherhead,England,United Kingdom",20339,UK,City,TRUE
+388,LECHLADE,1006862,Lechlade,"Lechlade,England,United Kingdom",20339,UK,City,TRUE
+389,LEE-ON-THE-SOLENT,1006863,Lee-on-the-Solent,"Lee-on-the-Solent,England,United Kingdom",20339,UK,City,TRUE
+390,LEEDS,1006864,Leeds,"Leeds,England,United Kingdom",20339,UK,City,TRUE
+391,LEEK,1006865,Leek,"Leek,England,United Kingdom",20339,UK,City,TRUE
+392,LEICESTER,1006867,Leicester,"Leicester,England,United Kingdom",20339,UK,City,TRUE
+393,LEIGHTON_BUZZARD,1006868,Leighton Buzzard,"Leighton Buzzard,England,United Kingdom",20339,UK,City,TRUE
+394,LENHAM,1006869,Lenham,"Lenham,England,United Kingdom",20339,UK,City,TRUE
+395,LETCHWORTH_GARDEN_CITY,1006870,Letchworth Garden City,"Letchworth Garden City,England,United Kingdom",20339,UK,City,TRUE
+396,LEWES,1006871,Lewes,"Lewes,England,United Kingdom",20339,UK,City,TRUE
+397,LEWKNOR,1006872,Lewknor,"Lewknor,England,United Kingdom",20339,UK,City,TRUE
+398,LEYLAND,1006873,Leyland,"Leyland,England,United Kingdom",20339,UK,City,TRUE
+399,LICHFIELD,1006874,Lichfield,"Lichfield,England,United Kingdom",20339,UK,City,TRUE
+400,LIGHTHORNE,1006875,Lighthorne,"Lighthorne,England,United Kingdom",20339,UK,City,TRUE
+401,LINCOLN,1006876,Lincoln,"Lincoln,England,United Kingdom",20339,UK,City,TRUE
+402,LINDSEY,1006877,Lindsey,"Lindsey,England,United Kingdom",20339,UK,City,TRUE
+403,LIPHOOK,1006878,Liphook,"Liphook,England,United Kingdom",20339,UK,City,TRUE
+404,LISKEARD,1006879,Liskeard,"Liskeard,England,United Kingdom",20339,UK,City,TRUE
+405,LITTLE_CHALFONT,1006880,Little Chalfont,"Little Chalfont,England,United Kingdom",20339,UK,City,TRUE
+406,LITTLE_CHESTERFORD,1006881,Little Chesterford,"Little Chesterford,England,United Kingdom",20339,UK,City,TRUE
+407,LITTLEBOURNE,1006882,Littlebourne,"Littlebourne,England,United Kingdom",20339,UK,City,TRUE
+408,LITTLEHAMPTON,1006883,Littlehampton,"Littlehampton,England,United Kingdom",20339,UK,City,TRUE
+409,LIVERPOOL,1006884,Liverpool,"Liverpool,England,United Kingdom",20339,UK,City,TRUE
+410,LOCKS_HEATH,1006885,Locks Heath,"Locks Heath,England,United Kingdom",20339,UK,City,TRUE
+411,LONDON,1006886,London,"London,England,United Kingdom",20339,UK,City,TRUE
+412,LONDON_COLNEY,1006887,London Colney,"London Colney,England,United Kingdom",20339,UK,City,TRUE
+413,LONG_EATON,1006888,Long Eaton,"Long Eaton,England,United Kingdom",20339,UK,City,TRUE
+414,LONGSTANTON,1006889,Longstanton,"Longstanton,England,United Kingdom",20339,UK,City,TRUE
+415,LONG_STRATTON,1006890,Long Stratton,"Long Stratton,England,United Kingdom",20339,UK,City,TRUE
+416,LOUGHBOROUGH,1006891,Loughborough,"Loughborough,England,United Kingdom",20339,UK,City,TRUE
+417,LOUTH,1006892,Louth,"Louth,England,United Kingdom",20339,UK,City,TRUE
+418,LOWESTOFT,1006893,Lowestoft,"Lowestoft,England,United Kingdom",20339,UK,City,TRUE
+419,LOWICK,1006894,Lowick,"Lowick,England,United Kingdom",20339,UK,City,TRUE
+420,LOWTHER,1006895,Lowther,"Lowther,England,United Kingdom",20339,UK,City,TRUE
+421,LUDLOW,1006896,Ludlow,"Ludlow,England,United Kingdom",20339,UK,City,TRUE
+422,LUTON,1006897,Luton,"Luton,England,United Kingdom",20339,UK,City,TRUE
+423,LUTTERWORTH,1006898,Lutterworth,"Lutterworth,England,United Kingdom",20339,UK,City,TRUE
+424,LYME_REGIS,1006899,Lyme Regis,"Lyme Regis,England,United Kingdom",20339,UK,City,TRUE
+425,LYMINGTON,1006900,Lymington,"Lymington,England,United Kingdom",20339,UK,City,TRUE
+426,LYMM,1006901,Lymm,"Lymm,England,United Kingdom",20339,UK,City,TRUE
+427,LYNDHURST,1006902,Lyndhurst,"Lyndhurst,England,United Kingdom",20339,UK,City,TRUE
+428,LYNEHAM,1006903,Lyneham,"Lyneham,England,United Kingdom",20339,UK,City,TRUE
+429,MACCLESFIELD,1006904,Macclesfield,"Macclesfield,England,United Kingdom",20339,UK,City,TRUE
+430,MAGHULL,1006905,Maghull,"Maghull,England,United Kingdom",20339,UK,City,TRUE
+431,MAIDENHEAD,1006906,Maidenhead,"Maidenhead,England,United Kingdom",20339,UK,City,TRUE
+432,MAIDSTONE,1006907,Maidstone,"Maidstone,England,United Kingdom",20339,UK,City,TRUE
+433,MALDON,1006908,Maldon,"Maldon,England,United Kingdom",20339,UK,City,TRUE
+434,MALMESBURY,1006909,Malmesbury,"Malmesbury,England,United Kingdom",20339,UK,City,TRUE
+435,MALTON,1006910,Malton,"Malton,England,United Kingdom",20339,UK,City,TRUE
+436,MALVERN_LINK,1006911,Malvern Link,"Malvern Link,England,United Kingdom",20339,UK,City,TRUE
+437,MANCHESTER,1006912,Manchester,"Manchester,England,United Kingdom",20339,UK,City,TRUE
+438,MANNINGTREE,1006913,Manningtree,"Manningtree,England,United Kingdom",20339,UK,City,TRUE
+439,MANSFIELD,1006914,Mansfield,"Mansfield,England,United Kingdom",20339,UK,City,TRUE
+440,MARCH,1006915,March,"March,England,United Kingdom",20339,UK,City,TRUE
+441,MARGATE,1006916,Margate,"Margate,England,United Kingdom",20339,UK,City,TRUE
+442,MARKET_HARBOROUGH,1006917,Market Harborough,"Market Harborough,England,United Kingdom",20339,UK,City,TRUE
+443,MARKET_RASEN,1006918,Market Rasen,"Market Rasen,England,United Kingdom",20339,UK,City,TRUE
+444,MARLBOROUGH,1006919,Marlborough,"Marlborough,England,United Kingdom",20339,UK,City,TRUE
+445,MARLOW,1006920,Marlow,"Marlow,England,United Kingdom",20339,UK,City,TRUE
+446,MARSKE-BY-THE-SEA,1006921,Marske-by-the-Sea,"Marske-by-the-Sea,England,United Kingdom",20339,UK,City,TRUE
+447,MATLOCK,1006922,Matlock,"Matlock,England,United Kingdom",20339,UK,City,TRUE
+448,MELBOURN,1006923,Melbourn,"Melbourn,England,United Kingdom",20339,UK,City,TRUE
+449,MELBOURNE,1006924,Melbourne,"Melbourne,England,United Kingdom",20339,UK,City,TRUE
+450,MELKSHAM,1006925,Melksham,"Melksham,England,United Kingdom",20339,UK,City,TRUE
+451,MELTON_MOWBRAY,1006926,Melton Mowbray,"Melton Mowbray,England,United Kingdom",20339,UK,City,TRUE
+452,MERIDEN,1006927,Meriden,"Meriden,England,United Kingdom",20339,UK,City,TRUE
+453,MIDDLESBROUGH,1006928,Middlesbrough,"Middlesbrough,England,United Kingdom",20339,UK,City,TRUE
+454,MIDHURST,1006929,Midhurst,"Midhurst,England,United Kingdom",20339,UK,City,TRUE
+455,MILDENHALL,1006930,Mildenhall,"Mildenhall,England,United Kingdom",20339,UK,City,TRUE
+456,MILFORD,1006931,Milford,"Milford,England,United Kingdom",20339,UK,City,TRUE
+457,MILNTHORPE,1006932,Milnthorpe,"Milnthorpe,England,United Kingdom",20339,UK,City,TRUE
+458,MILTON_KEYNES,1006933,Milton Keynes,"Milton Keynes,England,United Kingdom",20339,UK,City,TRUE
+459,MIRFIELD,1006934,Mirfield,"Mirfield,England,United Kingdom",20339,UK,City,TRUE
+460,MITCHELDEAN,1006935,Mitcheldean,"Mitcheldean,England,United Kingdom",20339,UK,City,TRUE
+461,MORECAMBE,1006937,Morecambe,"Morecambe,England,United Kingdom",20339,UK,City,TRUE
+462,MORPETH,1006938,Morpeth,"Morpeth,England,United Kingdom",20339,UK,City,TRUE
+463,MOSSLEY,1006939,Mossley,"Mossley,England,United Kingdom",20339,UK,City,TRUE
+464,NANTWICH,1006940,Nantwich,"Nantwich,England,United Kingdom",20339,UK,City,TRUE
+465,NELSON,1006941,Nelson,"Nelson,England,United Kingdom",20339,UK,City,TRUE
+466,NETTLEBED,1006942,Nettlebed,"Nettlebed,England,United Kingdom",20339,UK,City,TRUE
+467,NEW_MILTON,1006943,New Milton,"New Milton,England,United Kingdom",20339,UK,City,TRUE
+468,NEWARK-ON-TRENT,1006944,Newark-on-Trent,"Newark-on-Trent,England,United Kingdom",20339,UK,City,TRUE
+469,NEWBURY,1006946,Newbury,"Newbury,England,United Kingdom",20339,UK,City,TRUE
+470,NEWCASTLE-UNDER-LYME,1006947,Newcastle-under-Lyme,"Newcastle-under-Lyme,England,United Kingdom",20339,UK,City,TRUE
+471,NEWCASTLE_UPON_TYNE,1006948,Newcastle upon Tyne,"Newcastle upon Tyne,England,United Kingdom",20339,UK,City,TRUE
+472,NEWMARKET,1006949,Newmarket,"Newmarket,England,United Kingdom",20339,UK,City,TRUE
+473,NEWPORT,1006950,Newport,"Newport,England,United Kingdom",20339,UK,City,TRUE
+474,NEWPORT_PAGNELL,1006951,Newport Pagnell,"Newport Pagnell,England,United Kingdom",20339,UK,City,TRUE
+475,NEWQUAY,1006952,Newquay,"Newquay,England,United Kingdom",20339,UK,City,TRUE
+476,NEWTON_ABBOT,1006953,Newton Abbot,"Newton Abbot,England,United Kingdom",20339,UK,City,TRUE
+477,NEWTON_AYCLIFFE,1006954,Newton Aycliffe,"Newton Aycliffe,England,United Kingdom",20339,UK,City,TRUE
+478,NORTH_SHIELDS,1006955,North Shields,"North Shields,England,United Kingdom",20339,UK,City,TRUE
+479,NORTH_WALSHAM,1006957,North Walsham,"North Walsham,England,United Kingdom",20339,UK,City,TRUE
+480,NORTHALLERTON,1006958,Northallerton,"Northallerton,England,United Kingdom",20339,UK,City,TRUE
+481,NORTHAMPTON,1006959,Northampton,"Northampton,England,United Kingdom",20339,UK,City,TRUE
+482,NORTHFLEET,1006960,Northfleet,"Northfleet,England,United Kingdom",20339,UK,City,TRUE
+483,NORTHOWRAM,1006962,Northowram,"Northowram,England,United Kingdom",20339,UK,City,TRUE
+484,NORTHWICH,1006963,Northwich,"Northwich,England,United Kingdom",20339,UK,City,TRUE
+485,NORWICH,1006964,Norwich,"Norwich,England,United Kingdom",20339,UK,City,TRUE
+486,NOTTINGHAM,1006965,Nottingham,"Nottingham,England,United Kingdom",20339,UK,City,TRUE
+487,NUNEATON,1006966,Nuneaton,"Nuneaton,England,United Kingdom",20339,UK,City,TRUE
+488,OAKHAM,1006967,Oakham,"Oakham,England,United Kingdom",20339,UK,City,TRUE
+489,ODIHAM,1006968,Odiham,"Odiham,England,United Kingdom",20339,UK,City,TRUE
+490,OLDBURY,1006969,Oldbury,"Oldbury,England,United Kingdom",20339,UK,City,TRUE
+491,OLDHAM,1006970,Oldham,"Oldham,England,United Kingdom",20339,UK,City,TRUE
+492,OLNEY,1006971,Olney,"Olney,England,United Kingdom",20339,UK,City,TRUE
+493,ORMSKIRK,1006972,Ormskirk,"Ormskirk,England,United Kingdom",20339,UK,City,TRUE
+494,OSWESTRY,1006973,Oswestry,"Oswestry,England,United Kingdom",20339,UK,City,TRUE
+495,OUNDLE,1006974,Oundle,"Oundle,England,United Kingdom",20339,UK,City,TRUE
+496,OVERSEAL,1006975,Overseal,"Overseal,England,United Kingdom",20339,UK,City,TRUE
+497,OXFORD,1006976,Oxford,"Oxford,England,United Kingdom",20339,UK,City,TRUE
+498,OXTED,1006977,Oxted,"Oxted,England,United Kingdom",20339,UK,City,TRUE
+499,PAIGNTON,1006978,Paignton,"Paignton,England,United Kingdom",20339,UK,City,TRUE
+500,PANGBOURNE,1006979,Pangbourne,"Pangbourne,England,United Kingdom",20339,UK,City,TRUE
+501,PECKLETON,1006980,Peckleton,"Peckleton,England,United Kingdom",20339,UK,City,TRUE
+502,PENRITH,1006981,Penrith,"Penrith,England,United Kingdom",20339,UK,City,TRUE
+503,PENZANCE,1006983,Penzance,"Penzance,England,United Kingdom",20339,UK,City,TRUE
+504,PETERBOROUGH,1006984,Peterborough,"Peterborough,England,United Kingdom",20339,UK,City,TRUE
+505,PETERLEE,1006985,Peterlee,"Peterlee,England,United Kingdom",20339,UK,City,TRUE
+506,PETERSFIELD,1006986,Petersfield,"Petersfield,England,United Kingdom",20339,UK,City,TRUE
+507,PETWORTH,1006987,Petworth,"Petworth,England,United Kingdom",20339,UK,City,TRUE
+508,PLYMOUTH,1006988,Plymouth,"Plymouth,England,United Kingdom",20339,UK,City,TRUE
+509,POCKLINGTON,1006990,Pocklington,"Pocklington,England,United Kingdom",20339,UK,City,TRUE
+510,PONTEFRACT,1006991,Pontefract,"Pontefract,England,United Kingdom",20339,UK,City,TRUE
+511,POOLE,1006992,Poole,"Poole,England,United Kingdom",20339,UK,City,TRUE
+512,PORTHLEVEN,1006994,Porthleven,"Porthleven,England,United Kingdom",20339,UK,City,TRUE
+513,PORTLAND,1006995,Portland,"Portland,England,United Kingdom",20339,UK,City,TRUE
+514,PORTSMOUTH,1006996,Portsmouth,"Portsmouth,England,United Kingdom",20339,UK,City,TRUE
+515,POTTERS_BAR,1006997,Potters Bar,"Potters Bar,England,United Kingdom",20339,UK,City,TRUE
+516,PRESCOT,1006999,Prescot,"Prescot,England,United Kingdom",20339,UK,City,TRUE
+517,PRESTON,1007000,Preston,"Preston,England,United Kingdom",20339,UK,City,TRUE
+518,PRINCES_RISBOROUGH,1007001,Princes Risborough,"Princes Risborough,England,United Kingdom",20339,UK,City,TRUE
+519,PUDSEY,1007002,Pudsey,"Pudsey,England,United Kingdom",20339,UK,City,TRUE
+520,PURFLEET,1007003,Purfleet,"Purfleet,England,United Kingdom",20339,UK,City,TRUE
+521,RADLETT,1007004,Radlett,"Radlett,England,United Kingdom",20339,UK,City,TRUE
+522,RAINHILL,1007005,Rainhill,"Rainhill,England,United Kingdom",20339,UK,City,TRUE
+523,RAMSGATE,1007006,Ramsgate,"Ramsgate,England,United Kingdom",20339,UK,City,TRUE
+524,RAWTENSTALL,1007007,Rawtenstall,"Rawtenstall,England,United Kingdom",20339,UK,City,TRUE
+525,RAYLEIGH,1007008,Rayleigh,"Rayleigh,England,United Kingdom",20339,UK,City,TRUE
+526,READING,1007009,Reading,"Reading,England,United Kingdom",20339,UK,City,TRUE
+527,REDCAR,1007010,Redcar,"Redcar,England,United Kingdom",20339,UK,City,TRUE
+528,REDDITCH,1007011,Redditch,"Redditch,England,United Kingdom",20339,UK,City,TRUE
+529,REDHILL,1007012,Redhill,"Redhill,England,United Kingdom",20339,UK,City,TRUE
+530,REDRUTH,1007013,Redruth,"Redruth,England,United Kingdom",20339,UK,City,TRUE
+531,REIGATE,1007014,Reigate,"Reigate,England,United Kingdom",20339,UK,City,TRUE
+532,RICHMOND,1007015,Richmond,"Richmond,England,United Kingdom",20339,UK,City,TRUE
+533,RICKMANSWORTH,1007016,Rickmansworth,"Rickmansworth,England,United Kingdom",20339,UK,City,TRUE
+534,RIPON,1007017,Ripon,"Ripon,England,United Kingdom",20339,UK,City,TRUE
+535,RISLEY,1007018,Risley,"Risley,England,United Kingdom",20339,UK,City,TRUE
+536,ROCHDALE,1007020,Rochdale,"Rochdale,England,United Kingdom",20339,UK,City,TRUE
+537,ROCHESTER,1007021,Rochester,"Rochester,England,United Kingdom",20339,UK,City,TRUE
+538,ROCHFORD,1007022,Rochford,"Rochford,England,United Kingdom",20339,UK,City,TRUE
+539,BEBINGTON,1007023,Bebington,"Bebington,England,United Kingdom",20339,UK,City,TRUE
+540,ROMSEY,1007024,Romsey,"Romsey,England,United Kingdom",20339,UK,City,TRUE
+541,ROSS-ON-WYE,1007025,Ross-on-Wye,"Ross-on-Wye,England,United Kingdom",20339,UK,City,TRUE
+542,ROTHBURY,1007026,Rothbury,"Rothbury,England,United Kingdom",20339,UK,City,TRUE
+543,ROTHERHAM,1007027,Rotherham,"Rotherham,England,United Kingdom",20339,UK,City,TRUE
+544,ROWLANDS_GILL,1007028,Rowlands Gill,"Rowlands Gill,England,United Kingdom",20339,UK,City,TRUE
+545,ROWLEY_REGIS,1007029,Rowley Regis,"Rowley Regis,England,United Kingdom",20339,UK,City,TRUE
+546,ROYAL_LEAMINGTON_SPA,1007030,Royal Leamington Spa,"Royal Leamington Spa,England,United Kingdom",20339,UK,City,TRUE
+547,ROYAL_TUNBRIDGE_WELLS,1007031,Royal Tunbridge Wells,"Royal Tunbridge Wells,England,United Kingdom",20339,UK,City,TRUE
+548,ROYSTON,1007032,Royston,"Royston,South Yorkshire,England,United Kingdom",20339,UK,City,TRUE
+549,RUGBY,1007033,Rugby,"Rugby,England,United Kingdom",20339,UK,City,TRUE
+550,RUGELEY,1007034,Rugeley,"Rugeley,England,United Kingdom",20339,UK,City,TRUE
+551,RUNCORN,1007035,Runcorn,"Runcorn,England,United Kingdom",20339,UK,City,TRUE
+552,RUSCOMBE,1007036,Ruscombe,"Ruscombe,England,United Kingdom",20339,UK,City,TRUE
+553,RUSHDEN,1007037,Rushden,"Rushden,England,United Kingdom",20339,UK,City,TRUE
+554,RUSPER,1007038,Rusper,"Rusper,England,United Kingdom",20339,UK,City,TRUE
+555,RUSTINGTON,1007039,Rustington,"Rustington,England,United Kingdom",20339,UK,City,TRUE
+556,RYDE,1007040,Ryde,"Ryde,England,United Kingdom",20339,UK,City,TRUE
+557,SAFFRON_WALDEN,1007041,Saffron Walden,"Saffron Walden,England,United Kingdom",20339,UK,City,TRUE
+558,SALE,1007042,Sale,"Sale,England,United Kingdom",20339,UK,City,TRUE
+559,SALFORD,1007043,Salford,"Salford,England,United Kingdom",20339,UK,City,TRUE
+560,SALISBURY,1007044,Salisbury,"Salisbury,England,United Kingdom",20339,UK,City,TRUE
+561,SALTBURN-BY-THE-SEA,1007046,Saltburn-by-the-Sea,"Saltburn-by-the-Sea,England,United Kingdom",20339,UK,City,TRUE
+562,SANDBACH,1007047,Sandbach,"Sandbach,England,United Kingdom",20339,UK,City,TRUE
+563,SANDWICH,1007049,Sandwich,"Sandwich,England,United Kingdom",20339,UK,City,TRUE
+564,SAWBRIDGEWORTH,1007050,Sawbridgeworth,"Sawbridgeworth,England,United Kingdom",20339,UK,City,TRUE
+565,SAWTRY,1007051,Sawtry,"Sawtry,England,United Kingdom",20339,UK,City,TRUE
+566,SAXMUNDHAM,1007052,Saxmundham,"Saxmundham,England,United Kingdom",20339,UK,City,TRUE
+567,SCARBOROUGH,1007053,Scarborough,"Scarborough,England,United Kingdom",20339,UK,City,TRUE
+568,SCOLE,1007054,Scole,"Scole,England,United Kingdom",20339,UK,City,TRUE
+569,SCUNTHORPE,1007055,Scunthorpe,"Scunthorpe,England,United Kingdom",20339,UK,City,TRUE
+570,SEAFORD,1007056,Seaford,"Seaford,England,United Kingdom",20339,UK,City,TRUE
+571,SEAL,1007057,Seal,"Seal,England,United Kingdom",20339,UK,City,TRUE
+572,SEDLESCOMBE,1007058,Sedlescombe,"Sedlescombe,England,United Kingdom",20339,UK,City,TRUE
+573,SEVENOAKS,1007060,Sevenoaks,"Sevenoaks,England,United Kingdom",20339,UK,City,TRUE
+574,SHAFTESBURY,1007061,Shaftesbury,"Shaftesbury,England,United Kingdom",20339,UK,City,TRUE
+575,SHAWBURY,1007062,Shawbury,"Shawbury,England,United Kingdom",20339,UK,City,TRUE
+576,SHEERNESS,1007063,Sheerness,"Sheerness,England,United Kingdom",20339,UK,City,TRUE
+577,SHEFFIELD,1007064,Sheffield,"Sheffield,England,United Kingdom",20339,UK,City,TRUE
+578,SHEPPERTON,1007065,Shepperton,"Shepperton,England,United Kingdom",20339,UK,City,TRUE
+579,SHEPRETH,1007066,Shepreth,"Shepreth,England,United Kingdom",20339,UK,City,TRUE
+580,SHEPSHED,1007067,Shepshed,"Shepshed,England,United Kingdom",20339,UK,City,TRUE
+581,SHEPTON_MALLET,1007068,Shepton Mallet,"Shepton Mallet,England,United Kingdom",20339,UK,City,TRUE
+582,SHERBURN_VILLAGE,1007069,Sherburn Village,"Sherburn Village,England,United Kingdom",20339,UK,City,TRUE
+583,SHIPLEY,1007070,Shipley,"Shipley,England,United Kingdom",20339,UK,City,TRUE
+584,SHIPSTON-ON-STOUR,1007071,Shipston-on-Stour,"Shipston-on-Stour,England,United Kingdom",20339,UK,City,TRUE
+585,SHREWSBURY,1007072,Shrewsbury,"Shrewsbury,England,United Kingdom",20339,UK,City,TRUE
+586,SIDMOUTH,1007073,Sidmouth,"Sidmouth,England,United Kingdom",20339,UK,City,TRUE
+587,SILCHESTER,1007074,Silchester,"Silchester,England,United Kingdom",20339,UK,City,TRUE
+588,SILVERSTONE,1007075,Silverstone,"Silverstone,England,United Kingdom",20339,UK,City,TRUE
+589,SITTINGBOURNE,1007076,Sittingbourne,"Sittingbourne,England,United Kingdom",20339,UK,City,TRUE
+590,SKELMERSDALE,1007077,Skelmersdale,"Skelmersdale,England,United Kingdom",20339,UK,City,TRUE
+591,SKIPTON,1007078,Skipton,"Skipton,England,United Kingdom",20339,UK,City,TRUE
+592,SLEAFORD,1007079,Sleaford,"Sleaford,England,United Kingdom",20339,UK,City,TRUE
+593,SLOUGH,1007080,Slough,"Slough,England,United Kingdom",20339,UK,City,TRUE
+594,SMETHWICK,1007081,Smethwick,"Smethwick,England,United Kingdom",20339,UK,City,TRUE
+595,SOLIHULL,1007082,Solihull,"Solihull,England,United Kingdom",20339,UK,City,TRUE
+596,SOMERCOTES,1007083,Somercotes,"Somercotes,England,United Kingdom",20339,UK,City,TRUE
+597,SOULBURY,1007084,Soulbury,"Soulbury,England,United Kingdom",20339,UK,City,TRUE
+598,SOUTH_BANK,1007085,South Bank,"South Bank,England,United Kingdom",20339,UK,City,TRUE
+599,SOUTH_CERNEY,1007086,South Cerney,"South Cerney,England,United Kingdom",20339,UK,City,TRUE
+600,SOUTH_MIMMS,1007087,South Mimms,"South Mimms,England,United Kingdom",20339,UK,City,TRUE
+601,SOUTHAMPTON,1007089,Southampton,"Southampton,England,United Kingdom",20339,UK,City,TRUE
+602,SOUTHEND-ON-SEA,1007091,Southend-on-Sea,"Southend-on-Sea,England,United Kingdom",20339,UK,City,TRUE
+603,SOUTHPORT,1007092,Southport,"Southport,England,United Kingdom",20339,UK,City,TRUE
+604,SPALDING,1007094,Spalding,"Spalding,England,United Kingdom",20339,UK,City,TRUE
+605,SPENNYMOOR,1007095,Spennymoor,"Spennymoor,England,United Kingdom",20339,UK,City,TRUE
+606,SPILSBY,1007096,Spilsby,"Spilsby,England,United Kingdom",20339,UK,City,TRUE
+607,SAINT_ALBANS,1007097,Saint Albans,"Saint Albans,England,United Kingdom",20339,UK,City,TRUE
+608,LYTHAM_SAINT_ANNES,1007098,Lytham Saint Annes,"Lytham Saint Annes,England,United Kingdom",20339,UK,City,TRUE
+609,SAINT_AUSTELL,1007099,Saint Austell,"Saint Austell,England,United Kingdom",20339,UK,City,TRUE
+610,SAINT_HELENS,1007100,Saint Helens,"Saint Helens,England,United Kingdom",20339,UK,City,TRUE
+611,SAINT_IVES,1007101,Saint Ives,"Saint Ives,England,United Kingdom",20339,UK,City,TRUE
+612,SAINT_NEOTS,1007102,Saint Neots,"Saint Neots,England,United Kingdom",20339,UK,City,TRUE
+613,STAFFORD,1007103,Stafford,"Stafford,England,United Kingdom",20339,UK,City,TRUE
+614,STAINES-UPON-THAMES,1007104,Staines-upon-Thames,"Staines-upon-Thames,England,United Kingdom",20339,UK,City,TRUE
+615,STALYBRIDGE,1007105,Stalybridge,"Stalybridge,England,United Kingdom",20339,UK,City,TRUE
+616,STAMFORD,1007106,Stamford,"Stamford,England,United Kingdom",20339,UK,City,TRUE
+617,STANSTEAD_ABBOTTS,1007107,Stanstead Abbotts,"Stanstead Abbotts,England,United Kingdom",20339,UK,City,TRUE
+618,STANSTED_MOUNTFITCHET,1007108,Stansted Mountfitchet,"Stansted Mountfitchet,England,United Kingdom",20339,UK,City,TRUE
+619,STANWELL,1007109,Stanwell,"Stanwell,England,United Kingdom",20339,UK,City,TRUE
+620,STAPLEFORD,1007110,Stapleford,"Stapleford,England,United Kingdom",20339,UK,City,TRUE
+621,STAPLEHURST,1007111,Staplehurst,"Staplehurst,England,United Kingdom",20339,UK,City,TRUE
+622,STAVERTON,1007112,Staverton,"Staverton,England,United Kingdom",20339,UK,City,TRUE
+623,STEVENAGE,1007113,Stevenage,"Stevenage,England,United Kingdom",20339,UK,City,TRUE
+624,STEYNING,1007114,Steyning,"Steyning,England,United Kingdom",20339,UK,City,TRUE
+625,STOCK,1007115,Stock,"Stock,England,United Kingdom",20339,UK,City,TRUE
+626,STOCKBRIDGE,1007116,Stockbridge,"Stockbridge,England,United Kingdom",20339,UK,City,TRUE
+627,STOCKLEY,1007117,Stockley,"Stockley,England,United Kingdom",20339,UK,City,TRUE
+628,STOCKPORT,1007118,Stockport,"Stockport,England,United Kingdom",20339,UK,City,TRUE
+629,STOCKTON-ON-TEES,1007119,Stockton-on-Tees,"Stockton-on-Tees,England,United Kingdom",20339,UK,City,TRUE
+630,STOKE_GIFFORD,1007120,Stoke Gifford,"Stoke Gifford,England,United Kingdom",20339,UK,City,TRUE
+631,STOKE-ON-TRENT,1007121,Stoke-on-Trent,"Stoke-on-Trent,England,United Kingdom",20339,UK,City,TRUE
+632,STOKE_POGES,1007122,Stoke Poges,"Stoke Poges,England,United Kingdom",20339,UK,City,TRUE
+633,STOKESLEY,1007123,Stokesley,"Stokesley,England,United Kingdom",20339,UK,City,TRUE
+634,STONY_STRATFORD,1007124,Stony Stratford,"Stony Stratford,England,United Kingdom",20339,UK,City,TRUE
+635,STOURBRIDGE,1007125,Stourbridge,"Stourbridge,England,United Kingdom",20339,UK,City,TRUE
+636,STOURPORT-ON-SEVERN,1007126,Stourport-on-Severn,"Stourport-on-Severn,England,United Kingdom",20339,UK,City,TRUE
+637,STOWMARKET,1007127,Stowmarket,"Stowmarket,England,United Kingdom",20339,UK,City,TRUE
+638,STRATFORD-UPON-AVON,1007128,Stratford-upon-Avon,"Stratford-upon-Avon,England,United Kingdom",20339,UK,City,TRUE
+639,STROUD,1007129,Stroud,"Stroud,England,United Kingdom",20339,UK,City,TRUE
+640,STUDLEY,1007130,Studley,"Studley,England,United Kingdom",20339,UK,City,TRUE
+641,SUNBURY-ON-THAMES,1007132,Sunbury-on-Thames,"Sunbury-on-Thames,England,United Kingdom",20339,UK,City,TRUE
+642,SUNDERLAND,1007133,Sunderland,"Sunderland,England,United Kingdom",20339,UK,City,TRUE
+643,SUNNINGHILL,1007134,Sunninghill,"Sunninghill,England,United Kingdom",20339,UK,City,TRUE
+644,SUTTON,1007135,Sutton,"Sutton,England,United Kingdom",20339,UK,City,TRUE
+645,SUTTON_COLDFIELD,1007136,Sutton Coldfield,"Sutton Coldfield,England,United Kingdom",20339,UK,City,TRUE
+646,SUTTON_COURTENAY,1007137,Sutton Courtenay,"Sutton Courtenay,England,United Kingdom",20339,UK,City,TRUE
+647,SUTTON-IN-ASHFIELD,1007138,Sutton-in-Ashfield,"Sutton-in-Ashfield,England,United Kingdom",20339,UK,City,TRUE
+648,SWADLINCOTE,1007139,Swadlincote,"Swadlincote,England,United Kingdom",20339,UK,City,TRUE
+649,SWALLOWFIELD,1007140,Swallowfield,"Swallowfield,England,United Kingdom",20339,UK,City,TRUE
+650,SWANLEY,1007141,Swanley,"Swanley,England,United Kingdom",20339,UK,City,TRUE
+651,SWANMORE,1007142,Swanmore,"Swanmore,England,United Kingdom",20339,UK,City,TRUE
+652,SWAVESEY,1007143,Swavesey,"Swavesey,England,United Kingdom",20339,UK,City,TRUE
+653,TADCASTER,1007145,Tadcaster,"Tadcaster,England,United Kingdom",20339,UK,City,TRUE
+654,TADWORTH,1007146,Tadworth,"Tadworth,England,United Kingdom",20339,UK,City,TRUE
+655,TAMWORTH,1007147,Tamworth,"Tamworth,England,United Kingdom",20339,UK,City,TRUE
+656,TATTENHALL,1007148,Tattenhall,"Tattenhall,England,United Kingdom",20339,UK,City,TRUE
+657,TAUNTON,1007149,Taunton,"Taunton,England,United Kingdom",20339,UK,City,TRUE
+658,TEDDINGTON,1007150,Teddington,"Teddington,England,United Kingdom",20339,UK,City,TRUE
+659,TELFORD,1007151,Telford,"Telford,England,United Kingdom",20339,UK,City,TRUE
+660,TEMPLECOMBE,1007152,Templecombe,"Templecombe,England,United Kingdom",20339,UK,City,TRUE
+661,TETBURY,1007153,Tetbury,"Tetbury,England,United Kingdom",20339,UK,City,TRUE
+662,TEWKESBURY,1007154,Tewkesbury,"Tewkesbury,England,United Kingdom",20339,UK,City,TRUE
+663,THAME,1007155,Thame,"Thame,England,United Kingdom",20339,UK,City,TRUE
+664,THAMES_DITTON,1007156,Thames Ditton,"Thames Ditton,England,United Kingdom",20339,UK,City,TRUE
+665,THATCHAM,1007158,Thatcham,"Thatcham,England,United Kingdom",20339,UK,City,TRUE
+666,THEALE,1007159,Theale,"Theale,England,United Kingdom",20339,UK,City,TRUE
+667,THETFORD,1007160,Thetford,"Thetford,England,United Kingdom",20339,UK,City,TRUE
+668,THIRSK,1007161,Thirsk,"Thirsk,England,United Kingdom",20339,UK,City,TRUE
+669,THORNBURY,1007162,Thornbury,"Thornbury,England,United Kingdom",20339,UK,City,TRUE
+670,THORPE-LE-SOKEN,1007163,Thorpe-le-Soken,"Thorpe-le-Soken,England,United Kingdom",20339,UK,City,TRUE
+671,THRAPSTON,1007164,Thrapston,"Thrapston,England,United Kingdom",20339,UK,City,TRUE
+672,TILBURY,1007166,Tilbury,"Tilbury,England,United Kingdom",20339,UK,City,TRUE
+673,TIPTON,1007167,Tipton,"Tipton,England,United Kingdom",20339,UK,City,TRUE
+674,TIPTREE,1007168,Tiptree,"Tiptree,England,United Kingdom",20339,UK,City,TRUE
+675,TITCHFIELD,1007169,Titchfield,"Titchfield,England,United Kingdom",20339,UK,City,TRUE
+676,TIVERTON,1007170,Tiverton,"Tiverton,England,United Kingdom",20339,UK,City,TRUE
+677,TONBRIDGE,1007171,Tonbridge,"Tonbridge,England,United Kingdom",20339,UK,City,TRUE
+678,TORQUAY,1007173,Torquay,"Torquay,England,United Kingdom",20339,UK,City,TRUE
+679,TOTTON_AND_ELING,1007174,Totton and Eling,"Totton and Eling,England,United Kingdom",20339,UK,City,TRUE
+680,TOWCESTER,1007175,Towcester,"Towcester,England,United Kingdom",20339,UK,City,TRUE
+681,TRING,1007177,Tring,"Tring,England,United Kingdom",20339,UK,City,TRUE
+682,TROWBRIDGE,1007178,Trowbridge,"Trowbridge,England,United Kingdom",20339,UK,City,TRUE
+683,TRURO,1007179,Truro,"Truro,England,United Kingdom",20339,UK,City,TRUE
+684,TUXFORD,1007180,Tuxford,"Tuxford,England,United Kingdom",20339,UK,City,TRUE
+685,UCKFIELD,1007181,Uckfield,"Uckfield,England,United Kingdom",20339,UK,City,TRUE
+686,UPPER_HEYFORD,1007182,Upper Heyford,"Upper Heyford,England,United Kingdom",20339,UK,City,TRUE
+687,UPPINGHAM,1007183,Uppingham,"Uppingham,England,United Kingdom",20339,UK,City,TRUE
+688,UTTOXETER,1007184,Uttoxeter,"Uttoxeter,England,United Kingdom",20339,UK,City,TRUE
+689,WADHURST,1007186,Wadhurst,"Wadhurst,England,United Kingdom",20339,UK,City,TRUE
+690,WAINFLEET_ALL_SAINTS,1007187,Wainfleet All Saints,"Wainfleet All Saints,England,United Kingdom",20339,UK,City,TRUE
+691,WAKEFIELD,1007188,Wakefield,"Wakefield,England,United Kingdom",20339,UK,City,TRUE
+692,WALLASEY,1007189,Wallasey,"Wallasey,England,United Kingdom",20339,UK,City,TRUE
+693,WALLINGFORD,1007190,Wallingford,"Wallingford,England,United Kingdom",20339,UK,City,TRUE
+694,WALLINGTON,1007191,Wallington,"Wallington,England,United Kingdom",20339,UK,City,TRUE
+695,WALSALL,1007192,Walsall,"Walsall,England,United Kingdom",20339,UK,City,TRUE
+696,WALTHAM_CROSS,1007193,Waltham Cross,"Waltham Cross,England,United Kingdom",20339,UK,City,TRUE
+697,WALTON-LE-DALE,1007194,Walton-le-Dale,"Walton-le-Dale,England,United Kingdom",20339,UK,City,TRUE
+698,WALTON-ON-THAMES,1007195,Walton-on-Thames,"Walton-on-Thames,England,United Kingdom",20339,UK,City,TRUE
+699,WANTAGE,1007196,Wantage,"Wantage,England,United Kingdom",20339,UK,City,TRUE
+700,WARDLEY,1007197,Wardley,"Wardley,England,United Kingdom",20339,UK,City,TRUE
+701,WARE,1007198,Ware,"Ware,England,United Kingdom",20339,UK,City,TRUE
+702,WARMINSTER,1007199,Warminster,"Warminster,England,United Kingdom",20339,UK,City,TRUE
+703,WARWICK,1007201,Warwick,"Warwick,England,United Kingdom",20339,UK,City,TRUE
+704,WASHINGTON,1007202,Washington,"Washington,England,United Kingdom",20339,UK,City,TRUE
+705,WATERLOOVILLE,1007203,Waterlooville,"Waterlooville,England,United Kingdom",20339,UK,City,TRUE
+706,WATFORD,1007204,Watford,"Watford,England,United Kingdom",20339,UK,City,TRUE
+707,WATTON,1007205,Watton,"Watton,England,United Kingdom",20339,UK,City,TRUE
+708,WEAVERHAM,1007206,Weaverham,"Weaverham,England,United Kingdom",20339,UK,City,TRUE
+709,WEDNESBURY,1007207,Wednesbury,"Wednesbury,England,United Kingdom",20339,UK,City,TRUE
+710,WELLINGBOROUGH,1007208,Wellingborough,"Wellingborough,England,United Kingdom",20339,UK,City,TRUE
+711,WELWYN,1007209,Welwyn,"Welwyn,England,United Kingdom",20339,UK,City,TRUE
+712,WEMBLEY,1007210,Wembley,"Wembley,England,United Kingdom",20339,UK,City,TRUE
+713,WENDOVER,1007211,Wendover,"Wendover,England,United Kingdom",20339,UK,City,TRUE
+714,WEST_BROMWICH,1007212,West Bromwich,"West Bromwich,England,United Kingdom",20339,UK,City,TRUE
+715,WEST_KIRBY,1007213,West Kirby,"West Kirby,England,United Kingdom",20339,UK,City,TRUE
+716,WEST_MALLING,1007214,West Malling,"West Malling,England,United Kingdom",20339,UK,City,TRUE
+717,WEST_MOORS,1007215,West Moors,"West Moors,England,United Kingdom",20339,UK,City,TRUE
+718,WESTERHAM,1007217,Westerham,"Westerham,England,United Kingdom",20339,UK,City,TRUE
+719,WESTHOUGHTON,1007218,Westhoughton,"Westhoughton,England,United Kingdom",20339,UK,City,TRUE
+720,WESTON-SUPER-MARE,1007219,Weston-super-Mare,"Weston-super-Mare,England,United Kingdom",20339,UK,City,TRUE
+721,WETHERBY,1007220,Wetherby,"Wetherby,England,United Kingdom",20339,UK,City,TRUE
+722,WEYBRIDGE,1007221,Weybridge,"Weybridge,England,United Kingdom",20339,UK,City,TRUE
+723,WEYMOUTH,1007222,Weymouth,"Weymouth,England,United Kingdom",20339,UK,City,TRUE
+724,WHEATHAMPSTEAD,1007223,Wheathampstead,"Wheathampstead,England,United Kingdom",20339,UK,City,TRUE
+725,WHITCHURCH,1007224,Whitchurch,"Whitchurch,England,United Kingdom",20339,UK,City,TRUE
+726,WHITEHAVEN,1007225,Whitehaven,"Whitehaven,England,United Kingdom",20339,UK,City,TRUE
+727,WHITSTABLE,1007226,Whitstable,"Whitstable,England,United Kingdom",20339,UK,City,TRUE
+728,WICKEN,1007227,Wicken,"Wicken,England,United Kingdom",20339,UK,City,TRUE
+729,WICKFORD,1007228,Wickford,"Wickford,England,United Kingdom",20339,UK,City,TRUE
+730,WIDNES,1007229,Widnes,"Widnes,England,United Kingdom",20339,UK,City,TRUE
+731,WIGAN,1007230,Wigan,"Wigan,England,United Kingdom",20339,UK,City,TRUE
+732,WILLENHALL,1007231,Willenhall,"Willenhall,England,United Kingdom",20339,UK,City,TRUE
+733,WILLERSEY,1007232,Willersey,"Willersey,England,United Kingdom",20339,UK,City,TRUE
+734,WILLINGHAM,1007233,Willingham,"Willingham,England,United Kingdom",20339,UK,City,TRUE
+735,WILMSLOW,1007234,Wilmslow,"Wilmslow,England,United Kingdom",20339,UK,City,TRUE
+736,WIMBORNE_MINSTER,1007235,Wimborne Minster,"Wimborne Minster,England,United Kingdom",20339,UK,City,TRUE
+737,WINCHCOMBE,1007236,Winchcombe,"Winchcombe,England,United Kingdom",20339,UK,City,TRUE
+738,WINCHESTER,1007237,Winchester,"Winchester,England,United Kingdom",20339,UK,City,TRUE
+739,WINDERMERE,1007238,Windermere,"Windermere,England,United Kingdom",20339,UK,City,TRUE
+740,WINDSOR,1007239,Windsor,"Windsor,England,United Kingdom",20339,UK,City,TRUE
+741,WINGERWORTH,1007240,Wingerworth,"Wingerworth,England,United Kingdom",20339,UK,City,TRUE
+742,WINNERSH,1007241,Winnersh,"Winnersh,England,United Kingdom",20339,UK,City,TRUE
+743,WINSFORD,1007242,Winsford,"Winsford,England,United Kingdom",20339,UK,City,TRUE
+744,WITHAM,1007243,Witham,"Witham,England,United Kingdom",20339,UK,City,TRUE
+745,WITHINGTON,1007244,Withington,"Withington,England,United Kingdom",20339,UK,City,TRUE
+746,WITNEY,1007245,Witney,"Witney,England,United Kingdom",20339,UK,City,TRUE
+747,WOKING,1007246,Woking,"Woking,England,United Kingdom",20339,UK,City,TRUE
+748,WOKINGHAM,1007247,Wokingham,"Wokingham,England,United Kingdom",20339,UK,City,TRUE
+749,WOLLASTON,1007248,Wollaston,"Wollaston,England,United Kingdom",20339,UK,City,TRUE
+750,WOLVERHAMPTON,1007249,Wolverhampton,"Wolverhampton,England,United Kingdom",20339,UK,City,TRUE
+751,WOMBOURNE,1007250,Wombourne,"Wombourne,England,United Kingdom",20339,UK,City,TRUE
+752,WOMBWELL,1007251,Wombwell,"Wombwell,England,United Kingdom",20339,UK,City,TRUE
+753,WOODBRIDGE,1007252,Woodbridge,"Woodbridge,England,United Kingdom",20339,UK,City,TRUE
+754,WOODLEY,1007253,Woodley,"Woodley,England,United Kingdom",20339,UK,City,TRUE
+755,ROYAL_WOOTTON_BASSETT,1007255,Royal Wootton Bassett,"Royal Wootton Bassett,England,United Kingdom",20339,UK,City,TRUE
+756,WORCESTER,1007256,Worcester,"Worcester,England,United Kingdom",20339,UK,City,TRUE
+757,WORKINGTON,1007257,Workington,"Workington,England,United Kingdom",20339,UK,City,TRUE
+758,WORKSOP,1007258,Worksop,"Worksop,England,United Kingdom",20339,UK,City,TRUE
+759,WORTHING,1007259,Worthing,"Worthing,England,United Kingdom",20339,UK,City,TRUE
+760,WOTTON-UNDER-EDGE,1007260,Wotton-under-Edge,"Wotton-under-Edge,England,United Kingdom",20339,UK,City,TRUE
+761,WYMONDHAM,1007261,Wymondham,"Wymondham,England,United Kingdom",20339,UK,City,TRUE
+762,YALDING,1007262,Yalding,"Yalding,England,United Kingdom",20339,UK,City,TRUE
+763,YARM,1007263,Yarm,"Yarm,England,United Kingdom",20339,UK,City,TRUE
+764,YATELEY,1007264,Yateley,"Yateley,England,United Kingdom",20339,UK,City,TRUE
+765,YEOVIL,1007265,Yeovil,"Yeovil,England,United Kingdom",20339,UK,City,TRUE
+766,YORK,1007266,York,"York,England,United Kingdom",20339,UK,City,TRUE
+767,DOUGLAS,1007268,Douglas,"Douglas,Isle of Man,United Kingdom",20340,UK,City,TRUE
+768,RAMSEY,1007269,Ramsey,"Ramsey,Isle of Man,United Kingdom",20340,UK,City,TRUE
+769,ANTRIM,1007270,Antrim,"Antrim,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+770,ARDGLASS,1007271,Ardglass,"Ardglass,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+771,BANBRIDGE,1007272,Banbridge,"Banbridge,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+772,BANGOR,1007273,Bangor,"Bangor,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+773,BELFAST,1007274,Belfast,"Belfast,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+774,CARRICKFERGUS,1007275,Carrickfergus,"Carrickfergus,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+775,COLERAINE,1007276,Coleraine,"Coleraine,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+776,COOKSTOWN,1007277,Cookstown,"Cookstown,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+777,DOWNPATRICK,1007278,Downpatrick,"Downpatrick,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+778,DUNGANNON,1007279,Dungannon,"Dungannon,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+779,DUNMURRY,1007280,Dunmurry,"Dunmurry,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+780,ENNISKILLEN,1007281,Enniskillen,"Enniskillen,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+781,GLENGORMLEY,1007282,Glengormley,"Glengormley,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+782,LISBURN,1007283,Lisburn,"Lisburn,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+783,LONDONDERRY,1007284,Londonderry,"Londonderry,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+784,LURGAN,1007285,Lurgan,"Lurgan,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+785,NEWCASTLE,1007286,Newcastle,"Newcastle,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+786,NEWRY,1007287,Newry,"Newry,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+787,NEWTOWNABBEY,1007288,Newtownabbey,"Newtownabbey,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+788,NEWTOWNARDS,1007289,Newtownards,"Newtownards,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+789,OMAGH,1007290,Omagh,"Omagh,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+790,PORTADOWN,1007291,Portadown,"Portadown,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+791,STRABANE,1007292,Strabane,"Strabane,Northern Ireland,United Kingdom",20341,UK,City,TRUE
+792,ABERDEEN,1007293,Aberdeen,"Aberdeen,Scotland,United Kingdom",20342,UK,City,TRUE
+793,ALEXANDRIA,1007294,Alexandria,"Alexandria,Scotland,United Kingdom",20342,UK,City,TRUE
+794,ALLOA,1007295,Alloa,"Alloa,Scotland,United Kingdom",20342,UK,City,TRUE
+795,ALNESS,1007296,Alness,"Alness,Scotland,United Kingdom",20342,UK,City,TRUE
+796,ANNAN,1007297,Annan,"Annan,Scotland,United Kingdom",20342,UK,City,TRUE
+797,ARBROATH,1007298,Arbroath,"Arbroath,Scotland,United Kingdom",20342,UK,City,TRUE
+798,AVOCH,1007299,Avoch,"Avoch,Scotland,United Kingdom",20342,UK,City,TRUE
+799,AYR,1007300,Ayr,"Ayr,Scotland,United Kingdom",20342,UK,City,TRUE
+800,BARRHEAD,1007301,Barrhead,"Barrhead,Scotland,United Kingdom",20342,UK,City,TRUE
+801,BELLSHILL,1007302,Bellshill,"Bellshill,Scotland,United Kingdom",20342,UK,City,TRUE
+802,BIGGAR,1007303,Biggar,"Biggar,Scotland,United Kingdom",20342,UK,City,TRUE
+803,BLANTYRE,1007304,Blantyre,"Blantyre,Scotland,United Kingdom",20342,UK,City,TRUE
+804,BO'NESS,1007305,Bo'ness,"Bo'ness,Scotland,United Kingdom",20342,UK,City,TRUE
+805,BRIDGE_OF_WEIR,1007306,Bridge of Weir,"Bridge of Weir,Scotland,United Kingdom",20342,UK,City,TRUE
+806,BRODICK,1007307,Brodick,"Brodick,Scotland,United Kingdom",20342,UK,City,TRUE
+807,CAMPBELTOWN,1007309,Campbeltown,"Campbeltown,Scotland,United Kingdom",20342,UK,City,TRUE
+808,CASTLE_DOUGLAS,1007310,Castle Douglas,"Castle Douglas,Scotland,United Kingdom",20342,UK,City,TRUE
+809,CLYDEBANK,1007311,Clydebank,"Clydebank,Scotland,United Kingdom",20342,UK,City,TRUE
+810,COATBRIDGE,1007312,Coatbridge,"Coatbridge,Scotland,United Kingdom",20342,UK,City,TRUE
+811,CRAIGNURE,1007313,Craignure,"Craignure,Scotland,United Kingdom",20342,UK,City,TRUE
+812,CROMARTY,1007314,Cromarty,"Cromarty,Scotland,United Kingdom",20342,UK,City,TRUE
+813,CUMBERNAULD,1007315,Cumbernauld,"Cumbernauld,Scotland,United Kingdom",20342,UK,City,TRUE
+814,DINGWALL,1007316,Dingwall,"Dingwall,Scotland,United Kingdom",20342,UK,City,TRUE
+815,DORNOCH,1007317,Dornoch,"Dornoch,Scotland,United Kingdom",20342,UK,City,TRUE
+816,DOUGLAS,1007318,Douglas,"Douglas,Scotland,United Kingdom",20342,UK,City,TRUE
+817,DUMBARTON,1007319,Dumbarton,"Dumbarton,Scotland,United Kingdom",20342,UK,City,TRUE
+818,DUMFRIES,1007320,Dumfries,"Dumfries,Scotland,United Kingdom",20342,UK,City,TRUE
+819,DUNDEE,1007321,Dundee,"Dundee,Scotland,United Kingdom",20342,UK,City,TRUE
+820,DUNFERMLINE,1007322,Dunfermline,"Dunfermline,Scotland,United Kingdom",20342,UK,City,TRUE
+821,DUNS,1007323,Duns,"Duns,Scotland,United Kingdom",20342,UK,City,TRUE
+822,EAGLESHAM,1007324,Eaglesham,"Eaglesham,Scotland,United Kingdom",20342,UK,City,TRUE
+823,EAST_KILBRIDE,1007325,East Kilbride,"East Kilbride,Scotland,United Kingdom",20342,UK,City,TRUE
+824,EDINBURGH,1007326,Edinburgh,"Edinburgh,Scotland,United Kingdom",20342,UK,City,TRUE
+825,ELGIN,1007327,Elgin,"Elgin,Scotland,United Kingdom",20342,UK,City,TRUE
+826,ESKDALEMUIR,1007328,Eskdalemuir,"Eskdalemuir,Scotland,United Kingdom",20342,UK,City,TRUE
+827,EYEMOUTH,1007329,Eyemouth,"Eyemouth,Scotland,United Kingdom",20342,UK,City,TRUE
+828,FALKIRK,1007330,Falkirk,"Falkirk,Scotland,United Kingdom",20342,UK,City,TRUE
+829,FINDHORN,1007332,Findhorn,"Findhorn,Scotland,United Kingdom",20342,UK,City,TRUE
+830,FORFAR,1007333,Forfar,"Forfar,Scotland,United Kingdom",20342,UK,City,TRUE
+831,FORRES,1007334,Forres,"Forres,Scotland,United Kingdom",20342,UK,City,TRUE
+832,FORT_WILLIAM,1007335,Fort William,"Fort William,Scotland,United Kingdom",20342,UK,City,TRUE
+833,GLASGOW,1007336,Glasgow,"Glasgow,Scotland,United Kingdom",20342,UK,City,TRUE
+834,GLENROTHES,1007337,Glenrothes,"Glenrothes,Scotland,United Kingdom",20342,UK,City,TRUE
+835,GOREBRIDGE,1007338,Gorebridge,"Gorebridge,Scotland,United Kingdom",20342,UK,City,TRUE
+836,GOUROCK,1007339,Gourock,"Gourock,Scotland,United Kingdom",20342,UK,City,TRUE
+837,GREENOCK,1007340,Greenock,"Greenock,Scotland,United Kingdom",20342,UK,City,TRUE
+838,HAMILTON,1007341,Hamilton,"Hamilton,Scotland,United Kingdom",20342,UK,City,TRUE
+839,HARRIS,1007342,Harris,"Harris,Scotland,United Kingdom",20342,UK,City,TRUE
+840,INVERARAY,1007343,Inveraray,"Inveraray,Scotland,United Kingdom",20342,UK,City,TRUE
+841,INVERBERVIE,1007344,Inverbervie,"Inverbervie,Scotland,United Kingdom",20342,UK,City,TRUE
+842,INVERNESS,1007345,Inverness,"Inverness,Scotland,United Kingdom",20342,UK,City,TRUE
+843,INVERURIE,1007346,Inverurie,"Inverurie,Scotland,United Kingdom",20342,UK,City,TRUE
+844,IRVINE,1007347,Irvine,"Irvine,Scotland,United Kingdom",20342,UK,City,TRUE
+845,JEDBURGH,1007348,Jedburgh,"Jedburgh,Scotland,United Kingdom",20342,UK,City,TRUE
+846,JOHNSTONE,1007349,Johnstone,"Johnstone,Scotland,United Kingdom",20342,UK,City,TRUE
+847,KELSO,1007350,Kelso,"Kelso,Scotland,United Kingdom",20342,UK,City,TRUE
+848,KENNACRAIG,1007351,Kennacraig,"Kennacraig,Scotland,United Kingdom",20342,UK,City,TRUE
+849,KILBARCHAN,1007352,Kilbarchan,"Kilbarchan,Scotland,United Kingdom",20342,UK,City,TRUE
+850,KILBRIDE,1007353,Kilbride,"Kilbride,Scotland,United Kingdom",20342,UK,City,TRUE
+851,KILMACOLM,1007354,Kilmacolm,"Kilmacolm,Scotland,United Kingdom",20342,UK,City,TRUE
+852,KILMARNOCK,1007355,Kilmarnock,"Kilmarnock,Scotland,United Kingdom",20342,UK,City,TRUE
+853,KILWINNING,1007356,Kilwinning,"Kilwinning,Scotland,United Kingdom",20342,UK,City,TRUE
+854,KINGARTH,1007357,Kingarth,"Kingarth,Scotland,United Kingdom",20342,UK,City,TRUE
+855,KINROSS,1007358,Kinross,"Kinross,Scotland,United Kingdom",20342,UK,City,TRUE
+856,KIRKCALDY,1007359,Kirkcaldy,"Kirkcaldy,Scotland,United Kingdom",20342,UK,City,TRUE
+857,KIRKINTILLOCH,1007360,Kirkintilloch,"Kirkintilloch,Scotland,United Kingdom",20342,UK,City,TRUE
+858,KIRKWALL,1007361,Kirkwall,"Kirkwall,Scotland,United Kingdom",20342,UK,City,TRUE
+859,KIRRIEMUIR,1007362,Kirriemuir,"Kirriemuir,Scotland,United Kingdom",20342,UK,City,TRUE
+860,LARKHALL,1007363,Larkhall,"Larkhall,Scotland,United Kingdom",20342,UK,City,TRUE
+861,LASSWADE,1007364,Lasswade,"Lasswade,Scotland,United Kingdom",20342,UK,City,TRUE
+862,LERWICK,1007365,Lerwick,"Lerwick,Scotland,United Kingdom",20342,UK,City,TRUE
+863,LIVINGSTON,1007366,Livingston,"Livingston,Scotland,United Kingdom",20342,UK,City,TRUE
+864,LOCHMADDY,1007368,Lochmaddy,"Lochmaddy,Scotland,United Kingdom",20342,UK,City,TRUE
+865,LOCHWINNOCH,1007369,Lochwinnoch,"Lochwinnoch,Scotland,United Kingdom",20342,UK,City,TRUE
+866,LOCKERBIE,1007370,Lockerbie,"Lockerbie,Scotland,United Kingdom",20342,UK,City,TRUE
+867,LUSS,1007371,Luss,"Luss,Scotland,United Kingdom",20342,UK,City,TRUE
+868,MALLAIGMORE,1007372,Mallaigmore,"Mallaigmore,Scotland,United Kingdom",20342,UK,City,TRUE
+869,MELROSE,1007373,Melrose,"Melrose,Scotland,United Kingdom",20342,UK,City,TRUE
+870,MONTROSE,1007374,Montrose,"Montrose,Scotland,United Kingdom",20342,UK,City,TRUE
+871,MOTHERWELL,1007375,Motherwell,"Motherwell,Scotland,United Kingdom",20342,UK,City,TRUE
+872,MUIR,1007376,Muir,"Muir,Scotland,United Kingdom",20342,UK,City,TRUE
+873,MUSSELBURGH,1007377,Musselburgh,"Musselburgh,Scotland,United Kingdom",20342,UK,City,TRUE
+874,NEILSTON,1007378,Neilston,"Neilston,Scotland,United Kingdom",20342,UK,City,TRUE
+875,NORTH_BERWICK,1007380,North Berwick,"North Berwick,Scotland,United Kingdom",20342,UK,City,TRUE
+876,PAISLEY,1007381,Paisley,"Paisley,Scotland,United Kingdom",20342,UK,City,TRUE
+877,PEEBLES,1007382,Peebles,"Peebles,Scotland,United Kingdom",20342,UK,City,TRUE
+878,PERTH,1007383,Perth,"Perth,Scotland,United Kingdom",20342,UK,City,TRUE
+879,PORT_ELLEN,1007384,Port Ellen,"Port Ellen,Scotland,United Kingdom",20342,UK,City,TRUE
+880,PORTLETHEN,1007385,Portlethen,"Portlethen,Scotland,United Kingdom",20342,UK,City,TRUE
+881,PORTREE,1007386,Portree,"Portree,Scotland,United Kingdom",20342,UK,City,TRUE
+882,PRESTWICK,1007387,Prestwick,"Prestwick,Scotland,United Kingdom",20342,UK,City,TRUE
+883,RANFURLY_CASTLE_GOLF_CLUB,1007388,Ranfurly Castle Golf Club,"Ranfurly Castle Golf Club,Scotland,United Kingdom",20342,UK,City,TRUE
+884,RENFREW,1007389,Renfrew,"Renfrew,Scotland,United Kingdom",20342,UK,City,TRUE
+885,ROSLIN,1007390,Roslin,"Roslin,Scotland,United Kingdom",20342,UK,City,TRUE
+886,ROSYTH,1007391,Rosyth,"Rosyth,Scotland,United Kingdom",20342,UK,City,TRUE
+887,RUTHERGLEN,1007392,Rutherglen,"Rutherglen,Scotland,United Kingdom",20342,UK,City,TRUE
+888,SANDBANK,1007393,Sandbank,"Sandbank,Scotland,United Kingdom",20342,UK,City,TRUE
+889,SANDWICK,1007394,Sandwick,"Sandwick,Scotland,United Kingdom",20342,UK,City,TRUE
+890,SAINT_ANDREWS,1007395,Saint Andrews,"Saint Andrews,Scotland,United Kingdom",20342,UK,City,TRUE
+891,SAINT_BOSWELLS,1007396,Saint Boswells,"Saint Boswells,Scotland,United Kingdom",20342,UK,City,TRUE
+892,STIRLING,1007397,Stirling,"Stirling,Scotland,United Kingdom",20342,UK,City,TRUE
+893,STONEHOUSE,1007398,Stonehouse,"Stonehouse,Scotland,United Kingdom",20342,UK,City,TRUE
+894,STORNOWAY,1007399,Stornoway,"Stornoway,Scotland,United Kingdom",20342,UK,City,TRUE
+895,TARBERT,1007400,Tarbert,"Tarbert,Scotland,United Kingdom",20342,UK,City,TRUE
+896,TARFSIDE,1007401,Tarfside,"Tarfside,Scotland,United Kingdom",20342,UK,City,TRUE
+897,TRINITY,1007402,Trinity,"Trinity,Scotland,United Kingdom",20342,UK,City,TRUE
+898,UDDINGSTON,1007403,Uddingston,"Uddingston,Scotland,United Kingdom",20342,UK,City,TRUE
+899,UIG,1007404,Uig,"Uig,Scotland,United Kingdom",20342,UK,City,TRUE
+900,ULLAPOOL,1007405,Ullapool,"Ullapool,Scotland,United Kingdom",20342,UK,City,TRUE
+901,ABERGAVENNY,1007407,Abergavenny,"Abergavenny,Wales,United Kingdom",20343,UK,City,TRUE
+902,ABERYSTWYTH,1007408,Aberystwyth,"Aberystwyth,Wales,United Kingdom",20343,UK,City,TRUE
+903,BANGOR,1007409,Bangor,"Bangor,Wales,United Kingdom",20343,UK,City,TRUE
+904,BARRY,1007410,Barry,"Barry,Wales,United Kingdom",20343,UK,City,TRUE
+905,BRECON,1007412,Brecon,"Brecon,Wales,United Kingdom",20343,UK,City,TRUE
+906,BRIDGEND,1007413,Bridgend,"Bridgend,Wales,United Kingdom",20343,UK,City,TRUE
+907,CAERNARFON,1007414,Caernarfon,"Caernarfon,Wales,United Kingdom",20343,UK,City,TRUE
+908,CAERPHILLY,1007415,Caerphilly,"Caerphilly,Wales,United Kingdom",20343,UK,City,TRUE
+909,CARDIFF,1007416,Cardiff,"Cardiff,Wales,United Kingdom",20343,UK,City,TRUE
+910,ABERTEIFI,1007417,Aberteifi,"Aberteifi,Wales,United Kingdom",20343,UK,City,TRUE
+911,CARMARTHEN,1007418,Carmarthen,"Carmarthen,Wales,United Kingdom",20343,UK,City,TRUE
+912,CHEPSTOW,1007420,Chepstow,"Chepstow,Wales,United Kingdom",20343,UK,City,TRUE
+913,COLWYN_BAY,1007421,Colwyn Bay,"Colwyn Bay,Wales,United Kingdom",20343,UK,City,TRUE
+914,CONWY,1007423,Conwy,"Conwy,Wales,United Kingdom",20343,UK,City,TRUE
+915,CRUMLIN,1007424,Crumlin,"Crumlin,Wales,United Kingdom",20343,UK,City,TRUE
+916,CWMBRAN,1007426,Cwmbran,"Cwmbran,Wales,United Kingdom",20343,UK,City,TRUE
+917,DALE,1007427,Dale,"Dale,Wales,United Kingdom",20343,UK,City,TRUE
+918,DENBIGH,1007428,Denbigh,"Denbigh,Wales,United Kingdom",20343,UK,City,TRUE
+919,FLINT,1007430,Flint,"Flint,Wales,United Kingdom",20343,UK,City,TRUE
+920,GARREG,1007431,Garreg,"Garreg,Wales,United Kingdom",20343,UK,City,TRUE
+921,HARLECH,1007433,Harlech,"Harlech,Wales,United Kingdom",20343,UK,City,TRUE
+922,HAVERFORDWEST,1007434,Haverfordwest,"Haverfordwest,Wales,United Kingdom",20343,UK,City,TRUE
+923,HENGOED,1007436,Hengoed,"Hengoed,Wales,United Kingdom",20343,UK,City,TRUE
+924,LAMPETER,1007437,Lampeter,"Lampeter,Wales,United Kingdom",20343,UK,City,TRUE
+925,LLANDRINDOD_WELLS,1007439,Llandrindod Wells,"Llandrindod Wells,Wales,United Kingdom",20343,UK,City,TRUE
+926,LLANELLI,1007440,Llanelli,"Llanelli,Wales,United Kingdom",20343,UK,City,TRUE
+927,LLANGEFNI,1007441,Llangefni,"Llangefni,Wales,United Kingdom",20343,UK,City,TRUE
+928,MACHYNLLETH,1007442,Machynlleth,"Machynlleth,Wales,United Kingdom",20343,UK,City,TRUE
+929,MERTHYR_TYDFIL,1007443,Merthyr Tydfil,"Merthyr Tydfil,Wales,United Kingdom",20343,UK,City,TRUE
+930,MONMOUTH,1007444,Monmouth,"Monmouth,Wales,United Kingdom",20343,UK,City,TRUE
+931,MOUNTAIN_ASH,1007445,Mountain Ash,"Mountain Ash,Wales,United Kingdom",20343,UK,City,TRUE
+932,NEATH,1007446,Neath,"Neath,Wales,United Kingdom",20343,UK,City,TRUE
+933,NEWCASTLE_EMLYN,1007447,Newcastle Emlyn,"Newcastle Emlyn,Wales,United Kingdom",20343,UK,City,TRUE
+934,NEWPORT,1007448,Newport,"Newport,Wales,United Kingdom",20343,UK,City,TRUE
+935,NEWTOWN,1007449,Newtown,"Newtown,Wales,United Kingdom",20343,UK,City,TRUE
+936,PENARTH,1007450,Penarth,"Penarth,Wales,United Kingdom",20343,UK,City,TRUE
+937,PONTYCLUN,1007451,Pontyclun,"Pontyclun,Wales,United Kingdom",20343,UK,City,TRUE
+938,PONTYPOOL,1007452,Pontypool,"Pontypool,Wales,United Kingdom",20343,UK,City,TRUE
+939,PONTYPRIDD,1007453,Pontypridd,"Pontypridd,Wales,United Kingdom",20343,UK,City,TRUE
+940,PORT_TALBOT,1007454,Port Talbot,"Port Talbot,Wales,United Kingdom",20343,UK,City,TRUE
+941,PORTHCAWL,1007455,Porthcawl,"Porthcawl,Wales,United Kingdom",20343,UK,City,TRUE
+942,PWLLHELI,1007456,Pwllheli,"Pwllheli,Wales,United Kingdom",20343,UK,City,TRUE
+943,RASSAU,1007457,Rassau,"Rassau,Wales,United Kingdom",20343,UK,City,TRUE
+944,RUTHIN,1007459,Ruthin,"Ruthin,Wales,United Kingdom",20343,UK,City,TRUE
+945,SWANSEA,1007460,Swansea,"Swansea,Wales,United Kingdom",20343,UK,City,TRUE
+946,TALBOT_GREEN,1007461,Talbot Green,"Talbot Green,Wales,United Kingdom",20343,UK,City,TRUE
+947,TENBY,1007462,Tenby,"Tenby,Wales,United Kingdom",20343,UK,City,TRUE
+948,TYWYN,1007463,Tywyn,"Tywyn,Wales,United Kingdom",20343,UK,City,TRUE
+949,WREXHAM,1007464,Wrexham,"Wrexham,Wales,United Kingdom",20343,UK,City,TRUE
+950,YSTRAD_MYNACH,1007465,Ystrad Mynach,"Ystrad Mynach,Wales,United Kingdom",20343,UK,City,TRUE
+951,DERSINGHAM,1028786,Dersingham,"Dersingham,England,United Kingdom",20339,UK,City,TRUE
+952,ASHFORD,9050358,Ashford,"Ashford,Surrey,England,United Kingdom",20339,UK,City,TRUE
+953,CAMBOURNE,9050359,Cambourne,"Cambourne,England,United Kingdom",20339,UK,City,TRUE
+954,COMBERTON,9050360,Comberton,"Comberton,England,United Kingdom",20339,UK,City,TRUE
+955,COTTENHAM,9050361,Cottenham,"Cottenham,England,United Kingdom",20339,UK,City,TRUE
+956,EARLEY,9050362,Earley,"Earley,England,United Kingdom",20339,UK,City,TRUE
+957,EATON_SOCON,9050363,Eaton Socon,"Eaton Socon,England,United Kingdom",20339,UK,City,TRUE
+958,EVERCREECH,9050364,Evercreech,"Evercreech,England,United Kingdom",20339,UK,City,TRUE
+959,GAMLINGAY,9050365,Gamlingay,"Gamlingay,England,United Kingdom",20339,UK,City,TRUE
+960,HEMINGFORD_GREY,9050366,Hemingford Grey,"Hemingford Grey,England,United Kingdom",20339,UK,City,TRUE
+961,HILTON,9050367,Hilton,"Hilton,England,United Kingdom",20339,UK,City,TRUE
+962,HORNINGSHAM,9050368,Horningsham,"Horningsham,England,United Kingdom",20339,UK,City,TRUE
+963,LITTLEPORT,9050369,Littleport,"Littleport,England,United Kingdom",20339,UK,City,TRUE
+964,LONGSTANTON,9050370,Longstanton,"Longstanton,South Cambridgeshire District,England,United Kingdom",20339,UK,City,TRUE
+965,LYTCHETT_MATRAVERS,9050371,Lytchett Matravers,"Lytchett Matravers,England,United Kingdom",20339,UK,City,TRUE
+966,MELBOURN,9050372,Melbourn,"Melbourn,South Cambridgeshire District,England,United Kingdom",20339,UK,City,TRUE
+967,MOLESEY,9050373,Molesey,"Molesey,England,United Kingdom",20339,UK,City,TRUE
+968,RAUNDS,9050374,Raunds,"Raunds,England,United Kingdom",20339,UK,City,TRUE
+969,ROYSTON,9050375,Royston,"Royston,Hertfordshire,England,United Kingdom",20339,UK,City,TRUE
+970,SANDY,9050376,Sandy,"Sandy,England,United Kingdom",20339,UK,City,TRUE
+971,SHEFFORD,9050377,Shefford,"Shefford,England,United Kingdom",20339,UK,City,TRUE
+972,SOHAM,9050378,Soham,"Soham,England,United Kingdom",20339,UK,City,TRUE
+973,SOMERSHAM,9050379,Somersham,"Somersham,England,United Kingdom",20339,UK,City,TRUE
+974,STOTFOLD,9050380,Stotfold,"Stotfold,England,United Kingdom",20339,UK,City,TRUE
+975,SWAVESEY,9050381,Swavesey,"Swavesey,South Cambridgeshire District,England,United Kingdom",20339,UK,City,TRUE
+976,TOTTON,9050382,Totton,"Totton,England,United Kingdom",20339,UK,City,TRUE
+977,WILLERBY,9050383,Willerby,"Willerby,England,United Kingdom",20339,UK,City,TRUE
+978,WOODFORD,9050384,Woodford,"Woodford,England,United Kingdom",20339,UK,City,TRUE
+979,WOODLEY,9050385,Woodley,"Woodley,Woodley,England,United Kingdom",20339,UK,City,TRUE

@@ -1,0 +1,11 @@
+unique_id,reporting_label,criteria_id,location_name,canonical_name,parent_id,country_code,target_type,is_active
+1,ST_HELIER,1006454,St Helier,"St Helier,United Kingdom",2826,GB,City,TRUE
+2,SAINT_PETER_PORT,1006455,Saint Peter Port,"Saint Peter Port,United Kingdom",2826,GB,City,TRUE
+3,ABINGDON,1006457,Abingdon,"Abingdon,England,United Kingdom",20339,GB,City,TRUE
+4,ACCRINGTON,1006458,Accrington,"Accrington,England,United Kingdom",20339,GB,City,TRUE
+5,ACLE,1006459,Acle,"Acle,England,United Kingdom",20339,GB,City,TRUE
+6,ADDLESTONE,1006460,Addlestone,"Addlestone,England,United Kingdom",20339,GB,City,TRUE
+7,ALCESTER,1006461,Alcester,"Alcester,England,United Kingdom",20339,GB,City,TRUE
+8,ALCONBURY,1006462,Alconbury,"Alconbury,England,United Kingdom",20339,GB,City,TRUE
+9,ALDBOURNE,1006463,Aldbourne,"Aldbourne,England,United Kingdom",20339,GB,City,TRUE
+10,ALDERLEY_EDGE,1006464,Alderley Edge,"Alderley Edge,England,United Kingdom",20339,GB,City,TRUE
