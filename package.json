@@ -17,6 +17,7 @@
     "gulp": "gulp",
     "development": "gulp",
     "geocode": "node ./scripts/geocode.js",
+    "staticmaps": "node ./scripts/staticmaps.js",
     "production": "gulp production",
     "deploy": "gulp deploy",
     "demo": "gulp production && gulp server",
