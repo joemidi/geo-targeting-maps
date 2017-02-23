@@ -11,16 +11,17 @@ const locations = json.map((item) => {
   const listItem = document.createElement('li');
   const anchor = document.createElement('a');
   const geoObj = {
+    id: item.unique_id,
     slug: slugify(item.location_name).toLowerCase().replace(/\'/,''),
     locationName: item.location_name,
     lat: item.lat,
     lng: item.lng,
   };
 
-  const text = document.createTextNode(geoObj.locationName);
+  const text = document.createTextNode(`${geoObj.id} - ${geoObj.locationName}`);
 
   anchor.href = `#${geoObj.slug}`;
-  anchor.id = `${geoObj.slug}`;
+  anchor.id = `${geoObj.slug}-${geoObj.id}`;
   anchor.dataset.lat = geoObj.lat;
   anchor.dataset.lng = geoObj.lng;
   anchor.addEventListener('click', (event) => {
