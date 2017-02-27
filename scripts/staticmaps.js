@@ -3,9 +3,13 @@ const fs = require('fs');
 const json = require('../data/locations-full.json');
 const querystring = require('querystring');
 const slugify = require('slugify');
+const url = require('url');
+const base64url = require('base64-url');
+const crypto = require('crypto');
 
 const BASE_URL = 'https://maps.googleapis.com/maps/api/staticmap';
 const API_KEY = process.env.GOOGLE_GEOCODE_API;
+const SECRET = process.env.SECRET;
 
 const baseOptions = {
   zoom: 17,
@@ -15,6 +19,25 @@ const baseOptions = {
   maptype: 'roadmap',
   key: API_KEY
 }
+
+const signURL = (apiUrl) => {
+  // converting key to bytes will throw an exception, need to replace '-' and '_' characters first.
+  const usablePrivateKey = SECRET.replace(/[-]/g, '+').replace(/[_]/g, '/');
+
+  const privateKeyBytes = new Buffer(usablePrivateKey, 'base64');
+  const uri = url.parse(apiUrl);
+
+  // compute the hash
+  const algorithm = crypto.createHmac('sha1', privateKeyBytes);
+  const hash = algorithm.update(uri.path).digest('base64');
+
+  // convert the bytes to string and make url-safe by replacing '+' and '/' characters
+  const signature = hash.replace(/[+]/g, '-').replace(/[/]/g, '_');
+
+  // add the signature to the existing URI
+  return uri.protocol + '//' + uri.host + uri.path + '&signature=' + signature;
+};
+
 
 const stylesArray = [
   'element:geometry%7Ccolor:0xf5f5f5',
@@ -49,7 +72,7 @@ const getURLs = (array) => {
     const mapInfo = {
       unique_id: array.unique_id,
       name: slugify(array.location_name).toLowerCase().replace(/\'/,''),
-      url: `${BASE_URL}?${querystring.stringify( options )}${styleString}`
+      url: signURL(`${BASE_URL}?${querystring.stringify( options )}${styleString}` )
     };
     resolve(mapInfo);
   });
