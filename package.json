@@ -18,6 +18,7 @@
     "development": "gulp",
     "geocode": "node ./scripts/geocode.js",
     "staticmaps": "node ./scripts/staticmaps.js",
+    "screencapture": "gulp production && node ./scripts/screencapture.js",
     "production": "gulp production",
     "deploy": "gulp deploy",
     "demo": "gulp production && gulp server",
@@ -88,6 +89,7 @@
     "querystring": "^0.2.0",
     "request": "^2.79.0",
     "request-promise": "^4.1.1",
-    "slugify": "^1.1.0"
+    "slugify": "^1.1.0",
+    "webshot": "^0.18.0"
   }
 }
