@@ -35,31 +35,42 @@ const locations = json.map((item) => {
   return anchor;
 });
 
-const defaultLocation = () => {
-  return {
-    lat: Number(locations[0].dataset.lat),
-    lng: Number(locations[0].dataset.lng)
-  };
+const getLocationCoords = () => {
+  let latLngObject = {};
+  if (window.location.hash) {
+    const locationElement = document.querySelector(window.location.hash);
+    let dataset = locationElement.dataset;
+    latLngObject = {
+      lat: Number(dataset.lat),
+      lng: Number(dataset.lng)
+    };
+  } else {
+    latLngObject = {
+      lat: 51.38542899999999,
+      lng: -0.178818
+    };
+  }
+
+  return latLngObject;
 };
 
-mapsapi()
+const createMap = () => {
+  mapsapi()
   .then((maps) => {
     map = new google.maps.Map(mapElement, {
       mapTypeId: 'roadmap',
       zoom: 15,
       styles: mapstyle,
-      center: defaultLocation(),
+      center: getLocationCoords(),
       disableDefaultUI: true
     });
   });
+};
 
 const hashChangeHandler = () => {
-  const locationElement = document.querySelector(window.location.hash);
-  let dataset = locationElement.dataset;
-  map.setCenter({
-    lat: Number(dataset.lat),
-    lng: Number(dataset.lng)
-  });
+  map.setCenter(getLocationCoords());
 };
 
 window.addEventListener('hashchange', hashChangeHandler, false);
+
+document.addEventListener('DOMContentLoaded', createMap, false);
