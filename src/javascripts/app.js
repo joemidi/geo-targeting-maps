@@ -1,4 +1,4 @@
-const json = require('./locations.json');
+const json = require('../../data/locations-full.json');
 const mapstyle = require('./mapstyle.json');
 const slugify = require('slugify');
 const mapsapi = require('google-maps-api')('AIzaSyC1gVJNHFiTxClJkJ9NJgMAV0SzeemMoy0');
